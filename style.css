@@ -1,0 +1,2008 @@
+/* ==========================
+   RESET / GLOBAL STYLES
+========================== */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#content, #page {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+:root {
+  --series-max-width: 1120px;  /* adjust later if you want wider/narrower */
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: #dedfe3;
+    background-repeat: no-repeat, no-repeat;
+    background-position: calc(50% - 600px) bottom, calc(50% + 600px) bottom;
+    background-size: 640px auto, 680px auto;
+    background-attachment: fixed, fixed;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+/* ==========================
+   HEADER / NAVIGATION
+========================== */
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    backdrop-filter: blur(8px);
+    background: rgba(23, 58, 90, 0.35);
+}
+
+.topbar {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 8px 14px;
+}
+
+#logo {
+    width: 70px;
+    height: auto;
+    display: block;
+}
+
+header nav {
+    display: grid;
+    grid-template-columns: auto 1fr auto auto;
+    gap: 16px;
+    align-items: center;
+    padding: 6px 12px;
+}
+
+header nav ul {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    gap: 6px;
+    margin: 8px 0 0;
+    padding: 0;
+    list-style: none;
+}
+
+header nav a.btn {
+    display: block;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    font-weight: 700;
+    background: linear-gradient(to bottom, #05426e 0%, #03253e 100%);
+    color: #fff;
+}
+
+.mainnav {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin: 0 12px 0 16px;
+    padding: 0;
+    flex: 1;
+    min-width: 0;
+}
+
+.mainnav .btn {
+    display: inline-block;
+    padding: 8px 18px;
+    font-weight: 700;
+    font-size: .95em;
+    border-radius: 9999px;
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    text-decoration: none;
+    transition: all .25s ease;
+}
+
+.mainnav .btn:hover {
+    background: #03253e;
+    color: white;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.25);
+}
+
+.actions {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-left: auto;
+}
+
+.icon-btn {
+    width: 34px;
+    height: 34px;
+    display: grid;
+    place-items: center;
+    background: transparent;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 9999px;
+    cursor: pointer;
+}
+
+.icon-btn:hover {
+    background: rgba(0, 0, 0, 0.05);
+}
+
+.icon-btn:focus-visible {
+    outline: 2px solid #0b507e;
+    outline-offset: 2px;
+}
+
+.icon-btn svg {
+    opacity: .85;
+}
+
+.icon-btn:hover svg {
+    opacity: 1;
+}
+
+/* Dropdown / Menu */
+.dropbtn {
+    background-color: #002744;
+    color: #fff;
+    padding: 6px 10px;
+    font-size: .95em;
+    border: none;
+}
+
+.menu-wrapper {
+    position: relative;
+}
+
+.menu-dropdown {
+    position: absolute;
+    top: 40px;
+    right: 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0;
+    min-width: 180px;
+    padding: 6px;
+    background: rgba(255, 255, 255, 0.97);
+    backdrop-filter: blur(6px);
+    border-radius: 10px;
+    box-shadow: 0 10px 24px rgba(0, 0, 0, .14);
+    z-index: 2000;
+    opacity: 0;
+    transform: translateY(-6px);
+    pointer-events: none;
+    transition: opacity .16s ease, transform .16s ease;
+}
+
+.menu-dropdown a {
+    display: block;
+    padding: 10px 12px;
+    border-radius: 8px;
+    color: #0B5781;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.menu-dropdown a:hover {
+    background: rgba(167, 212, 225, 0.35);
+}
+
+.menu-wrapper.active .menu-dropdown {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+}
+
+
+
+/* Search Box in header */
+.search-box {
+    position: relative;
+    display: inline-block;
+    margin-left: 8px;
+}
+
+.search-box input {
+    width: 0;
+    opacity: 0;
+    padding: 6px 8px;
+    border-radius: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    outline: none;
+    font-size: .9em;
+    background: var(--white);
+    transition: width .3s ease, opacity .3s ease;
+}
+
+.search-box.active input {
+    width: 180px;
+    opacity: 1;
+}
+/* end */
+
+
+
+
+/* ==========================
+   SERIES php  TOOLBAR 
+========================== */
+
+/* Outer wrapper – full-width navy stripe behind the toolbar */
+.series-toolbar-outer {
+  position: relative;
+  margin: 0 0 16px;
+  z-index: 0;
+}
+
+.series-toolbar-outer::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100vw;              /* spans the entire viewport */
+  height: 100%;              /* same height as the toolbar wrapper */
+  background: #03253e;
+  z-index: -1;               /* sits behind the content */
+}
+
+/* Inner content row, aligned with main page width */
+.series-toolbar {
+  max-width: var(--series-max-width);
+  margin: 0 auto;
+  box-sizing: border-box;
+
+  display: flex;
+  align-items: center;
+  gap: 16px;
+
+  padding: 10px 24px;
+  color: #ffffff;
+}
+
+/* Back / Search / Edit – shared pill button style */
+.series-toolbar #back,
+/*.series-toolbar #seriesSearchButton,*/
+.series-toolbar #editButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+
+  padding: 8px 18px;
+  min-width: 130px;          /*  all three buttons same width */
+  border-radius: 9999px;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  font-weight: 700;
+  font-size: 0.95em;
+  cursor: pointer;
+  white-space: nowrap;
+  text-decoration: none;
+
+  background: rgba(183, 179, 179, 0.08);
+    color: #fff;
+
+  transition: background 0.2s ease,
+              transform 0.15s ease,
+              box-shadow 0.15s ease;
+}
+
+
+.series-toolbar #back:hover,
+.series-toolbar #seriesSearchButton:hover,
+.series-toolbar #editButton:hover {
+  background: #4b5460;
+  transform: translateY(-1px);
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.25);
+}
+
+/* Focus outlines for accessibility */
+.series-toolbar #back:focus-visible,
+.series-toolbar #seriesSearchButton:focus-visible,
+.series-toolbar #editButton:focus-visible {
+  outline: 2px solid #80b7e6;
+  outline-offset: 2px;
+}
+
+/* Search form sits in the middle and flexes */
+.series-search-form {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+#seriesSearchBar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+  width: 100%;
+  max-width: 480px;
+
+  background: #ffffff;
+  border-radius: 9999px;
+  padding: 4px 6px;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.12);
+}
+
+/* Search input */
+#seriesSearchInput {
+  flex: 1;
+  border: none;
+  outline: none;
+  padding: 8px 12px;
+  font-size: 0.95rem;
+  border-radius: 9999px;
+  background: transparent;
+}
+
+#seriesSearchInput::placeholder {
+  color: #7a8693;
+}
+
+
+/* ==========================
+   SERIES LANDING SEARCH BAR
+========================== */
+
+.series-search-form {
+  margin: 18px auto 32px;
+  display: flex;
+  justify-content: center;
+}
+
+#seriesSearchBar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+  /* pill container */
+  background: #ffffff;
+  border-radius: 9999px;
+  padding: 4px 6px;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+
+  max-width: 520px;
+  width: 100%;
+}
+
+/* input */
+#seriesSearchInput {
+  flex: 1;
+  border: none;
+  outline: none;
+  padding: 8px 12px;
+  font-size: 0.95rem;
+  border-radius: 9999px;
+}
+
+#seriesSearchInput::placeholder {
+  color: #7a8693;
+}
+
+/* button */
+#seriesSearchButton {
+  border: none;
+  padding: 8px 18px;
+  border-radius: 9999px;
+  background: #002744;
+  color: #ffffff;
+  font-size: 0.9rem;
+  font-weight: 700;
+  cursor: pointer;
+  white-space: nowrap;
+
+  transition: background 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+#seriesSearchButton:hover {
+  background: #0b507e;
+  box-shadow: 0 4px 14px rgba(5, 66, 110, 0.25);
+  transform: translateY(-1px);
+}
+
+#seriesSearchButton:focus-visible {
+  outline: 2px solid #0b507e;
+  outline-offset: 2px;
+}
+
+
+/* ==========================
+   EVENT SEARCH BAR
+========================== */
+
+/* some of this code needs to be deleted it applies to the old search bar from usdgc with the drop downs*/
+/*
+#searchEdit {
+  margin-bottom: 25px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+#editButton {
+    align-self: center;
+    background-color: #002744;
+    color: #fff;
+    padding: 6px 10px;
+    font-size: .95em;
+    border: none;
+    margin-left: 65px;
+}
+
+#mainSearchInput {
+    display: block;
+    align-self: center;
+    margin: auto;
+    width: 298px;
+}
+
+#mainSuggestionsContainer {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    /* Center it like the search input 
+    border: 1px solid #ccc;
+    background-color: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    max-height: 200px;
+    overflow-y: auto;
+    text-align: left;
+    width: 298px;
+    z-index: 1001;
+    /* Higher than header which is 1000 
+    margin-top: 2px;
+    /* Small gap below search input 
+}
+
+.suggestion-item {
+    padding: 5px;
+    cursor: pointer;
+    text-align: left;
+}
+
+.suggestion-item:hover {
+    background-color: #f0f0f0;
+}
+
+
+/* Dropdown Button 
+.dropbtn {
+    background-color: #002744;
+    color: white;
+    padding: 5px;
+    font-size: 1em;
+    border: none;
+}
+
+/* The container <div> - needed to position the dropdown content 
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) 
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown 
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover 
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover 
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown 
+.dropdown:hover .dropbtn {
+    filter: brightness(1.08);
+    transform: translateY(-1px);
+}
+/* end */
+
+/* ==========================
+   DROPDOWN BUTTONS
+========================== */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    filter: brightness(1.08);
+    transform: translateY(-1px);
+}
+/* end */
+/* ==========================
+   TERRON / EVENT SECTION
+========================== */
+#top {
+  margin: 40px auto;
+  width: 700px;
+  display: flex;                            
+  align-items: center;     
+  background: linear-gradient(to bottom, #f8fafc 0%, #ffffff 100%);
+  border-radius: 16px;
+  padding: 32px 0;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+  margin-bottom: 32px;
+  min-height: 150px;
+}
+
+/* logo */
+#event_logo {
+  flex-grow: 1;
+  height: 150px;
+  width: auto;
+  object-fit: contain;
+  background: transparent;
+  border: 0;
+  padding: 0;
+  box-shadow: none;
+  display: none;
+}
+
+/* header block (title/subtitle/location/director) */
+#event_header {
+    
+  flex-grow: 1;
+  align-self: left;
+  justify-self: center; /* <-- center the whole header block */
+  text-align: center;    /* <-- keep title/subtitle centered */
+}
+
+#event_title {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-size: clamp(1.6rem, 3vw, 2.2rem);
+  line-height: 1.2;
+  color: #0c1b2a;
+  font-weight: 900;
+}
+
+#event_subtitle { display: inline; }
+
+#top #event_location,
+#top #event_director {
+  margin: 2px 0 0;
+  color: #20374f;
+  font-weight: 600;
+  text-align: center;
+  align-self: center;
+  width: 100%;
+}
+
+
+/* === USDGC intro row: three equal boxes in one line === */
+.usdgc-intro{
+    width: fit-content;          
+     margin: 18px auto 0;         
+     display: grid;
+     grid-template-columns: repeat(3, 280px);  
+     gap: 16px;
+     align-items: stretch;
+     justify-content: center; 
+      margin: 18px auto 28px;
+   }
+   
+   /* Shared card look for About + stats */
+   
+ 
+   .usdgc-card,
+   .usdgc-intro #eventSnapshot .stat{
+     background: #fff;
+     border: 1px solid rgba(12,27,42,.10);
+     border-radius: 12px;
+     box-shadow: 0 6px 18px rgba(12,27,42,.08);
+     box-sizing: border-box;
+     min-height: 64px;                  
+   }
+   
+   /* ABOUT (only this expands) */
+   .usdgc-about{
+     overflow: hidden;/* keeps rounded corners when open */
+   }
+   .usdgc-about > summary{
+     list-style: none;
+     cursor: pointer;
+     display: flex; align-items: center;
+     gap: 8px;
+     padding: 12px 14px;
+     font-weight: 800; color: #173a5a;
+     border-bottom: 1px solid rgba(12,27,42,.08);
+     border-radius: 12px 12px 0 0;
+   }
+   .usdgc-about > summary::marker{ content: ""; }
+   .usdgc-about > summary::-webkit-details-marker{ display: none; }
+   .usdgc-about > summary::after{
+     content: "▸"; margin-left: auto; transition: transform .2s ease;
+   }
+   .usdgc-about[open] > summary::after{ transform: rotate(90deg); }
+   .usdgc-about .body{
+     padding: 12px 16px;
+     line-height: 1.6; color: #0c1b2a;
+   }
+   
+   /* SNAPSHOT: make each <li> its own grid column (columns 2 & 3) */
+   .usdgc-intro #eventSnapshot{
+     display: contents;                   
+     margin: 0; padding: 0; list-style: none;
+   }
+   .usdgc-intro #eventSnapshot > li{ list-style: none; }
+   
+   .usdgc-intro #eventSnapshot .stat{
+     display: grid; gap: 6px; text-align: center; padding: 14px;
+   }
+   .usdgc-intro #eventSnapshot .stat strong{
+     font-size: 1rem; letter-spacing: .02em; text-transform: uppercase; color: #173a5a;
+   }
+   .usdgc-intro #eventSnapshot .stat .value{ font-weight: 800; color: #0c1b2a; font-size: 1.2rem;}
+   
+   /* gentle hover */
+   .usdgc-card:hover,
+   .usdgc-intro #eventSnapshot .stat:hover{
+     transform: translateY(-1px);
+     box-shadow: 0 10px 22px rgba(12,27,42,.12);
+     transition: transform .15s ease, box-shadow .15s ease;
+   }
+   /* In the 3-box intro row, don't stretch items to the full row height */
+   .usdgc-intro{
+     align-items: start;                 /* was: stretch */
+   }
+   
+   /* Make each tile hug its own content even if the row gets taller */
+   .usdgc-intro > *{
+     align-self: start;                  /* applies to About + the two stats */
+   }
+   
+   /* Extra safety: ensure the stat tiles don't force a height */
+   .usdgc-intro #eventSnapshot .stat{
+     height: auto;
+   }
+   
+   
+
+
+/* ==========================
+   GRAPH SECTION
+========================== */
+.graphssection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.graphImg {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.graphImg figure {
+  text-align: center;
+  margin: 0;
+}
+
+.graphImg img {
+  width: 350px;
+  /* adjust this number for size */
+  max-width: 100%;
+  /* prevents overflow */
+  height: auto;
+  /* keeps aspect ratio */
+  border-radius: 10px;
+  /* optional: rounded corners */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  /* optional: soft shadow */
+}
+
+
+/*===========
+About section 
+=============*/
+.about-card {
+  background: #ffffff;
+  border: 1px solid rgba(0,0,0,.08);
+  border-radius: 14px;
+  box-shadow: 0 8px 22px rgba(0,0,0,.12);
+  padding: 18px 20px;
+  max-width: 980px;           /* or 1150px if you widened the page */
+  margin: 20px auto;
+  position: relative !important;
+  text-align: left !important;
+}
+
+/* thin gradient bar at top – same as year-card */
+.about-card::before {
+  content: "";
+  position: absolute !important;
+  inset: 0 0 auto 0;
+  height: 6px;
+  background: linear-gradient(90deg, #21313c, #0b507e);
+}
+
+/* header row */
+.about-card-head {
+    position: static !important;
+  background: transparent !important;
+  backdrop-filter: none !important;
+  box-shadow: none !important;
+  padding: 0;
+  
+   display: flex;
+  flex-direction: column;     /* stack items */
+  align-items: flex-start;    /* left-align */
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.about-card-head h3 {
+  margin: 0;
+  font-size: 1.25rem;
+  line-height: 1.25;
+  color: #041f3b;
+  letter-spacing: .2px;
+}
+
+/* underline under the About heading, like the Special Edition h3 */
+.about-card-head h3::after {
+  content: "";
+  display: block;
+  height: 3px;
+  width: 110px; /* adjust if you want it shorter/longer */
+  margin-top: 6px;
+  background: linear-gradient(90deg, #05426e, #0b507e);
+  border-radius: 3px;
+}
+
+/* summary text styling like year-card__summary */
+.about-card-summary {
+  margin: 10px 0 6px;
+  color: #041f3b;
+  line-height: 1.55;
+  font-size: 1rem;
+  text-align: left !important;
+}
+
+/* ==========================
+   DIVISION DASHBOARD
+========================== */
+
+.division-dashboard {
+   background: #ffffff;
+  border: 1px solid rgba(0,0,0,.08);
+  border-radius: 14px;
+  box-shadow: 0 8px 22px rgba(0,0,0,.12);
+  padding: 18px 20px;
+  max-width: var(--series-max-width);
+  margin: 24px auto;
+  box-sizing: border-box;
+}
+
+.division-dashboard h5 {
+   margin: 0 auto 16px;      
+  font-size: 1.25rem;       
+  text-align: center;
+}
+
+
+/*pill buttons */
+.division-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 14px;
+  border-radius: 9999px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+
+  border: 1px solid rgba(3, 37, 62, 0.18);
+  background: rgba(183, 179, 179, 0.08);
+  color: #03253e;
+  transition: background 0.2s ease, box-shadow 0.2s ease, transform 0.1s ease;
+}
+
+.division-pill:hover {
+  background: rgba(183, 179, 179, 0.16);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.18);
+  transform: translateY(-1px);
+}
+
+/* Active (selected) division */
+.division-pill.active {
+  background: #155c9b;
+  border-color: #155c9b;
+  color: #ffffff;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.25);
+}
+
+.no-divisions-note,
+.no-results-note {
+  font-size: 0.9rem;
+  color: #555;
+}
+
+/* Outer scroller – handles horizontal scroll */
+.division-buttons-scroller {
+  max-width: var(--series-max-width);
+  margin: 0 auto 16px;
+  padding: 0 8px;
+
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+/* Hide scrollbar (optional) */
+.division-buttons-scroller::-webkit-scrollbar {
+  height: 6px;
+}
+.division-buttons-scroller::-webkit-scrollbar-track {
+  background: transparent;
+}
+.division-buttons-scroller::-webkit-scrollbar-thumb {
+  background: rgba(0,0,0,0.18);
+  border-radius: 9999px;
+}
+
+/* Inner flex row with the pills */
+.division-buttons {
+  display: inline-flex;   
+  gap: 8px;
+  padding: 8px 0;
+}
+
+.division-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 14px;
+  border-radius: 9999px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+
+  border: 1px solid rgba(3, 37, 62, 0.18);
+  background: rgba(183, 179, 179, 0.08);
+  color: #03253e;
+  transition: background 0.2s ease, box-shadow 0.2s ease, transform 0.1s ease;
+}
+
+.division-pill.active {
+  background: #155c9b;
+  border-color: #155c9b;
+  color: #ffffff;
+}
+
+
+/* =====================
+Special Year Card (2011) - only applies to usdgc page
+======================= */
+.year-card__head {
+    position: static !important;
+    background: transparent !important;
+    backdrop-filter: none !important;
+    box-shadow: none !important;
+    padding: 0; /* in case the global header adds padding */
+  }
+  .year-card__head h3::after {
+    content: "";
+    display: block;
+    height: 3px;
+    width: 110px;  /* shorten/lengthen */
+    margin-top: 6px;
+    background: linear-gradient(90deg, #05426e, #0b507e); /* same as Where To Watch */
+    border-radius: 3px;
+  }
+
+.year-card {
+    background: #ffffff;
+    border: 1px solid rgba(0,0,0,.08);
+    border-radius: 14px;
+    box-shadow: 0 8px 22px rgba(0,0,0,.12);
+    padding: 18px 20px;
+    max-width: 980px;
+    margin: 20px auto;
+    position: relative !important;
+  }
+  
+  /* thin gradient bar at top*/
+  .year-card::before {
+    content: "";
+    position: absolute!important;
+    inset: 0 0 auto 0;
+    height: 6px;
+    background: linear-gradient(90deg, #21313c, #0b507e);
+  }
+  
+  /* header row */
+  .year-card__head {
+    display: flex;
+    align-items: center!important;
+    justify-content: space-between;
+    gap: 12px;
+    margin-top: 8px; /* clears the gradient bar visually */
+  }
+  
+  .year-card__head h3 {
+    margin: 0;
+    font-size: 1.25rem;
+    line-height: 1.25;
+    color: #041f3b;
+    letter-spacing: .2px;
+  }
+
+  /* byline + summary */
+  .year-card__byline {
+    margin: 10px 0 6px!important;
+    color: #041f3b !important;
+    font-weight: 600!important;
+    font-size: .95rem !important;
+    text-align:left !important;
+  }
+  
+  .year-card__summary {
+    margin: 0 0 10px;
+    color: #041f3b;
+    line-height: 1.55;
+    font-size: 1rem;
+    text-align: left !important;
+}
+.year-card {
+  text-align: left !important;
+}
+  
+  
+  /* Details toggle styled like a control */
+  .year-card__more summary {
+    list-style: none; /* removes default marker in some browsers */
+    cursor: pointer;
+    user-select: none;
+    display: inline-flex;
+    align-items: left!important;
+    gap: 8px;
+    padding: 8px 12px;
+    border-radius: 10px;
+    border: 1px solid rgba(3,37,62,.25);
+    background:
+      repeating-linear-gradient(
+        -45deg,
+        rgba(255,255,255,.06) 0,
+        rgba(255,255,255,.06) 10px,
+        transparent 10px,
+        transparent 20px
+      ),
+      linear-gradient(135deg, #05426e, #0b507e);
+    color: #fff;
+    font-weight: 700;
+    transition: transform .15s ease, box-shadow .15s ease, background .15s ease;
+  }
+
+  /* add a chevron */
+  .year-card__more summary::after {
+    content: "▾";
+    transform: translateY(1px);
+    opacity: .9;
+  }
+  .year-card__more[open] summary::after {
+    content: "▴";
+  }
+
+  .year-card__more summary:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 8px 18px rgba(5,66,110,.24);
+  }
+  
+  .year-card__more ul {
+    margin: 10px 0 0 0;
+    padding: 0 0 0 18px;
+    color: #20374f;
+  }
+  .year-card__more li {
+    margin: 6px 0 !important;
+    line-height: 1.5 !important;
+  }
+  
+/* Ensure the tile + heading are left-aligned */
+.watch{ text-align:left; }
+.watch h5{
+  text-align:left !important;
+}
+.watch h5::after{
+  margin-left: !important; 
+  margin-right:0!important;
+}
+.year-card__byline,
+.year-card__more {
+  text-align: left !important;
+}
+
+
+/* ==================
+Where To Watch 
+==================== */
+.watch {
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, .08);
+  border-radius: 14px;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, .12);
+  padding: 18px 20px;
+  max-width: 980px;
+  margin: 20px auto;
+  text-align: left;
+}
+
+/* Match “Special Edition” heading (remove pill) */
+.watch h5 {
+  all: unset;                     /* wipe global pill */
+  display: block;                 /* align like .year-card__head h3 */
+  margin: 0 0 8px;
+  font-size: 1.25rem;
+  line-height: 1.25;
+  color: #041f3b;
+  letter-spacing: .2px;
+  font-weight: 700;
+  text-align: left;
+  padding: 0;
+  position: relative;
+}
+/* Add the blue gradient underline bar */
+.watch h5::after {
+  content: "";
+  display: block;
+  height: 3px;
+  width: 110px;                   /* same width as .year-card__head */
+  margin-top: 6px;
+  background: linear-gradient(90deg, #05426e, #0b507e);
+  border-radius: 3px;
+}
+  
+  /* responsive grid */
+  #broadcasting {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 12px;
+  }
+  
+  /* sporty buttons */
+  #broadcasting li a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 14px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 0.9rem;
+    color: #fff;
+    border-radius: 12px;
+    border: 1px solid rgba(3,37,62,.35);
+    background:
+      /* subtle diagonal stripes */
+      repeating-linear-gradient(
+        -45deg,
+        rgba(255,255,255,.06) 0,
+        rgba(255,255,255,.06) 10px,
+        transparent 10px,
+        transparent 20px
+      ),
+      /* base gradient (DG Network look) */
+      linear-gradient(135deg, #05426e, #0b507e);
+    box-shadow: 0 6px 18px rgba(5,66,110,.22);
+    transition: transform .15s ease, box-shadow .15s ease, background .15s ease;
+  }
+  #broadcasting li a:visited { color: #fff; }
+  #broadcasting li a:hover   { transform: translateY(-2px); box-shadow: 0 10px 22px rgba(5,66,110,.28); }
+  #broadcasting li a:focus-visible {
+    outline: 3px solid #80b7e6; outline-offset: 2px;
+    box-shadow: 0 0 0 2px #fff, 0 0 0 6px rgba(128,183,230,.8);
+  }
+  
+  /* icon support */
+  #broadcasting li a.has-icon::before { content: none; } /* remove any pseudo play icon */
+  #broadcasting li a .brand-icon {
+    width: 22px; height: 22px;
+    flex: 0 0 22px;
+    object-fit: contain;
+    display: block;
+  }
+  
+  /* brand variants */
+  #broadcasting li a[href*="youtube"] {
+    background:
+      repeating-linear-gradient(
+        -45deg,
+        rgba(255,255,255,.06) 0,
+        rgba(255,255,255,.06) 10px,
+        transparent 10px,
+        transparent 20px
+      ),
+      linear-gradient(135deg, #8a0f1d, #b01824);
+  }
+  #broadcasting li a[href*="discgolfnetwork"] .brand-icon {
+    filter: brightness(1.15) contrast(1.05);
+  }
+
+/*===============
+Course map section
+=================*/
+.map {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    background: #fff;
+    border: 1px solid rgba(0,0,0,.08);
+    border-radius: 14px;
+    box-shadow: 0 8px 22px rgba(0,0,0,.12);
+    padding: 18px;
+    max-width: 980px;   /* controls overall width */
+    margin: 20px auto;  /* centers the tile on the page */
+    margin-bottom: 48px;
+  }
+  
+.map h5 { margin: auto; display: inline-block; background: #f0f6fb; color: #05325f; padding: 8px 12px; border: 1px solid #dbe7f0; border-radius: 10px!important; /* pill look; swap to 10px for a rectangle */ font-size: 1.05rem; font-weight: 700; letter-spacing: .2px; }
+
+
+  /* Centered, responsive image */
+  .map .course {
+    display: block;
+    width: 100%;
+    max-width: 820px;  
+    height: auto;
+    border-radius: 10px;
+    border: 1px solid rgba(0,0,0,.06);
+    box-shadow: 0 4px 16px rgba(0,0,0,.10);
+    margin: auto;
+  }
+
+/* ===============
+All Events Dashboard 
+====================*/
+.cardAllEvents {
+  margin: 16px 0;
+}
+
+/* Toolbar (search + prev/next) */
+.cardAllEvents .toolbar {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin: 8px 0 12px;
+  flex-wrap: wrap;            
+}
+
+.cardAllEvents .toolbar input[type="search"] {
+  flex: 1;
+  min-width: 220px;
+  padding: 8px 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.cardAllEvents .toolbar button {
+  padding: 8px 10px;
+  border: 1px solid #ccc;
+  background: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.cardAllEvents .toolbar button[disabled] {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* Table */
+#all_events {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+#all_events thead th {
+  position: sticky;         
+  top: 0;
+  background: #1e2e4e;
+  border-bottom: 1px solid #eee;
+  text-align: left;
+  padding: 8px 10px;
+  z-index: 1;
+}
+
+#all_events tbody td {
+  padding: 8px 10px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+#all_events tbody tr:nth-child(even) {
+  background: #fcfdff;     
+}
+
+#all_events tbody tr:hover {
+  background: #f5f8ff;     
+}
+
+#all_events a {
+  color: #0b5ed7;            
+  text-decoration: none;
+}
+#all_events a:hover {
+  text-decoration: underline;
+}
+
+
+
+/* ==================
+ background of website
+======================*/
+
+/*#panel {
+    margin: 0 10px;
+    text-align: center;
+}*/
+
+
+#panel {
+  max-width: var(--series-max-width);
+  margin: 0 auto 40px;
+  text-align: left;
+  box-sizing: border-box;
+}
+
+/* ======================================================
+   TABLES + HEADINGS  (cleaned, organized, documented)
+   ====================================================== */
+
+
+/* ==========================
+   HEADINGS
+========================== */
+
+/* Global pill style for ALL h5 (centered)
+   - Used by: table titles, Upcoming Event, USDGC Events, etc.
+*/
+.section_title {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  margin-bottom: 20px;
+
+  width: max-content;
+  margin: 0 auto;             /* centers the pill */
+  padding: 8px 14px;
+
+  background: #f0f6fb;
+  color: #05325f;
+  border: 1px solid #dbe7f0;
+  border-radius: 9999px;            /* pill shape */
+  font-size: 1.6rem;
+  font-weight: 700;
+  letter-spacing: .2px;
+  line-height: 1;
+  text-align: center;
+  box-shadow: 0 1px 2px rgba(0,0,0,.04);
+}
+
+/* Make "Where To Watch" mimic .year-card__head h3
+   (NOT a pill; styled like Special Edition 2011 header)
+*/
+.watch { text-align: left; }
+
+.watch h5 {
+  all: unset;                        /* wipe global h5 pill styles */
+  display: block;
+  margin: 0 0 8px;
+  font-size: 1.25rem;
+  line-height: 1.25;
+  color: #041f3b;
+  letter-spacing: .2px;
+  font-weight: 700;
+  text-align: left;
+}
+
+.watch h5::after {
+  content: "";
+  display: block;
+  height: 3px;
+  width: 110px;                      /* adjust to taste */
+  margin-top: 6px;
+  background: linear-gradient(90deg, #05426e, #0b507e);
+  border-radius: 3px;
+}
+
+
+/* ==========================
+   UPCOMING EVENT (card)
+========================== */
+
+/* Make the Upcoming section a card like the others */
+#upcoming {
+  background: #fff;
+  border: 1px solid rgba(0,0,0,.08);
+  border-radius: 14px;
+  box-shadow: 0 8px 22px rgba(0,0,0,.12);
+  padding: 18px 20px;
+  max-width: 980px;
+  margin: auto;
+}
+
+/* Clip inner corners so the table doesn't poke out */
+#upcoming #up_events {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+
+/* ==========================
+   TABLES (base styles)
+========================== */
+
+/*this controls the size of the title for the tables — merged into global h5*/
+
+/* Base table styling (applies to upcoming_table, past, etc.) */
+table {
+  margin: auto;
+  border: none;
+  border-collapse: collapse;
+}
+
+/*color of the font in the tables */
+table a {
+  color: rgb(33, 36, 57);
+}
+
+/* Standard fixed layout for common tables */
+table#upcoming_table,
+table#past {
+  table-layout: fixed;
+  width: 720px;
+  margin-bottom: 20px;
+}
+
+/* Top border to separate sections visually */
+tbody {
+  border-top: 1px solid #ccc;
+}
+
+/* Table headers */
+table thead th,
+table th {
+  background: linear-gradient(to bottom, #05426e 0%, #03253e 100%);
+  color: #fff;
+  font-weight: bold;
+  border-bottom: none;
+  margin: 0 0 5px;
+  padding: 10px;
+  line-height: 1;
+  text-transform: none;
+}
+
+/* Zebra rows + hover */
+tr:nth-child(even) {
+  background-color: #f6f8f9;
+}
+tr:nth-child(odd) {
+  background-color: #fbfcfd;
+}
+table tbody tr:hover {
+  background-color: #e9f6fb;
+  transition: background-color 150ms ease-in-out;
+}
+
+/* Cell spacing */
+td,
+th {
+  padding: 8px !important;
+  vertical-align: middle;
+  font-size: 0.9rem;
+ 
+}
+
+.table-wrapper {
+    padding: 0;
+    margin: 0;
+    background: none;
+    border: none;
+    box-shadow: none;
+    border-radius: 0;
+}
+
+
+/* ==========================
+   PAST EVENTS CTA / BUTTON
+========================== */
+
+/* button for past table*/
+#past_table .btn-viewall {
+  display: inline-block;
+  padding: .6rem 1rem;
+  border-radius: 9999px;
+  font-weight: 700;
+  text-decoration: none;
+  background: #05426e;
+  border: 1px solid #03253e;
+  color: #fff;
+  transition: transform .15s ease, box-shadow .15s ease, background .15s ease;
+}
+
+#past_table .btn-viewall:hover {
+  background: #0b507e;
+  box-shadow: 0 4px 14px rgba(5, 66, 110, .25);
+  transform: translateY(-1px);
+}
+
+#past_table .cta-row td {
+  text-align: center;
+  padding: 12px 0;
+  background: #f0f6fb;              /* overrides zebra striping */
+  border-top: 1px solid #dbe7f0;
+}
+/* end */
+
+/* ==========================
+   COLLAPSIBLE TABLE ARROW
+========================== */
+
+/* outside arrow for collapsible tables */
+table thead {
+  position: relative;                /* ensure thead is a positioning context */
+}
+
+table thead .outside-arrow {
+  position: absolute;
+  left: -18px;                       /* sits just outside the left edge of the header */
+  top: 50%;
+  transform: translateY(-50%) rotate(45deg); /* chevron pointing down */
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid #0B5781;
+  border-bottom: 2px solid #0B5781;
+  border-radius: 1px;
+  cursor: pointer;
+  transition: transform .18s ease;
+  z-index: 5;
+}
+
+/* rotated when table has .open (tbody visible) */
+table.open thead .outside-arrow {
+  transform: translateY(-50%) rotate(-135deg);
+}
+/* end */
+
+/* ==========================
+   TOGGLE (expand/collapse)
+========================== */
+
+/* toggle area*/
+#toggleTable {
+  cursor: pointer;
+}
+#toggleTable:hover {
+  background-color: #0b507e;
+  transition: background-color 0.2s ease-in-out;
+}
+/* end */
+
+
+/* ==========================
+   FEATURED EVENTS (Seadrah)
+========================== */
+
+/* Featured Events Section */
+#featured_events {
+  margin: 3rem 0;
+  padding: 2rem;
+  border-radius: 12px;
+  display: none;
+}
+
+#featured_events h2 {
+  margin-bottom: 1rem;
+  color: #000000;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.featured-scroll-container {
+  display: flex;
+  gap: 1.5rem;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 1rem 0.5rem;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Custom scrollbar */
+.featured-scroll-container::-webkit-scrollbar {
+  height: 8px;
+}
+
+.featured-scroll-container::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 4px;
+}
+
+.featured-scroll-container::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 4px;
+}
+
+.featured-scroll-container::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+/* Featured Event Tile */
+.featured-tile {
+  min-width: 280px;
+  max-width: 280px;
+  background: white;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  position: relative;
+  cursor: pointer;
+}
+
+.featured-tile:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+}
+
+.featured-tile h3 {
+  font-size: 1rem;
+  color: #1c2833;
+  margin-bottom: 1.2rem;
+  line-height: 1.4;
+  font-weight: 600;
+}
+
+.featured-tile .location {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #7f8c8d;
+  font-size: 0.9rem;
+  margin-bottom: 0.8rem;
+}
+
+.featured-tile .location::before {
+  content: "📍";
+  font-size: 1rem;
+}
+
+.featured-tile .purse {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #27ae60;
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 1rem;
+}
+
+.featured-tile .purse::before {
+  content: "💰";
+  font-size: 1.2rem;
+}
+
+/* Empty state */
+.featured-empty {
+  text-align: center;
+  padding: 3rem 2rem;
+  color: #7f8c8d;
+  display: none;
+}
+
+.featured-empty p {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.featured-empty small {
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
+
+/* Featured Events Autocomplete Suggestions */
+#featured_suggestions_container {
+  position: relative;
+}
+
+#featured_suggestions {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: white;
+  border: 1px solid #ccc;
+  border-top: none;
+  border-radius: 0 0 4px 4px;
+  max-height: 300px;
+  overflow-y: auto;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  display: none;
+}
+
+#featured_suggestions.active {
+  display: block;
+}
+
+.featured-suggestion-item {
+  padding: 0.75rem 1rem;
+  cursor: pointer;
+  border-bottom: 1px solid #f0f0f0;
+  transition: background 0.2s ease;
+}
+
+.featured-suggestion-item:hover,
+.featured-suggestion-item[data-first="true"] {
+  background: #f5f7fa;
+}
+
+.featured-suggestion-item strong {
+  display: block;
+  color: #2c3e50;
+  margin-bottom: 0.25rem;
+}
+
+.featured-suggestion-item small {
+  color: #7f8c8d;
+  font-size: 0.85rem;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  #featured_events {
+    padding: 1.5rem 1rem;
+  }
+
+  .featured-tile {
+    min-width: 240px;
+    max-width: 240px;
+  }
+
+  #featured_events h2 {
+    font-size: 1.5rem;
+  }
+}
+
+
+
+/* ==========================
+   FOOTER
+========================== */
+footer {
+    color: white;
+    background-color: #03253e;
+    padding: 16px;
+    text-align: start;
+    font-size: 0.9em;
+    margin-top: 20px;
+}
+
+footer .pane-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.footermedia {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    margin: 12px 0 0;
+    padding: 0;
+}
+
+.footermedia .btn {
+    display: inline-block;
+    padding: 8px 18px;
+    font-weight: 700;
+    font-size: .95em;
+    border-radius: 9999px;
+    text-decoration: none;
+    transition: all .25s ease;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    background: rgba(183, 179, 179, 0.08);
+    color: #fff;
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+}
+
+.footermedia .btn:hover {
+    background: rgba(255, 255, 255, 0.16);
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.25);
+}
+
+.pdga-icon {
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+    padding: 1%;
+}
+
+/* ==========================
+   DASHBOARD / SUMMARY
+========================== */
+#dashboard {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.dashboard-summary {
+    /* width: 700px;*/
+    max-width: 95%;
+    margin: 0 auto 12px;
+}
+
+/* === Scrollable table wrapper === */
+
+.table-scroll {
+  max-height: 300px; /* this controls the height of the table section */
+  /* adjust as needed */
+  overflow-y: auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  /* Seadrah -- feel free to un-comment if needed, took out due to some formatting issues w the margin */
+  border-radius: 4px;
+  position: relative;
+  /* Keep consistent height whether open or closed */
+  min-height: 150px;
+}
+
+/* When closed, reduce to just header height */
+.table-scroll:has(tbody[style*="display: none"]) {
+  min-height: auto;
+  max-height: none;
+}
+
+/* Make headers sticky inside scroll containers */
+.table-scroll table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: linear-gradient(to bottom, #05426e 0%, #03253e 100%);
+}
+
+/* Optional: smooth scrolling for long tables */
+.table-scroll::-webkit-scrollbar {
+  width: 8px;
+}
+
+.table-scroll::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 4px;
+}
+
+.table-scroll::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* Toggle arrow styling */
+/* outside arrow for collapsible tables */
+table thead {
+  position: relative;
+  /* ensure thead is a positioning context */
+}
+
+table thead .outside-arrow {
+  position: absolute;
+  left: -18px;
+  /* sits just outside the left edge of the header */
+  top: 50%;
+  transform: translateY(-50%) rotate(45deg);
+  /* chevron pointing down */
+  width: 8px;
+  height: 8px;
+  border-right: 2px solid #0B5781;
+  border-bottom: 2px solid #0B5781;
+  border-radius: 1px;
+  cursor: pointer;
+  transition: transform .18s ease;
+  z-index: 5;
+}
+
+/* rotated when table has .open (tbody visible) */
+table.open thead .outside-arrow {
+  transform: translateY(-50%) rotate(-135deg);
+}
+
+/* ==========================
+   EDIT MODAL - Featured Events Section
+========================== */
+
+.cardWinner_edit {
+  display: block !important;
+  width: 100%;
+}
+
+#featured_events_input_section {
+  display: block !important;
+  width: 100%;
+  padding: 1rem;
+  margin-bottom: 0;
+}
+
+#featured_events_input_section h3 {
+  text-align: left;
+  margin-bottom: 0.5rem;
+  display: block;
+  width: 100%;
+}
+
+#featured_events_input_section p {
+  text-align: left;
+  margin-bottom: 1.5rem;
+  display: block;
+  width: 100%;
+}
+
+#featured_suggestions_container {
+  position: relative;
+  margin-bottom: 1rem;
+  display: block;
+  width: 100%;
+}
+
+#featured_event_input {
+  width: 100% !important;
+  display: block;
+  box-sizing: border-box;
+}
+
+#add_featured_btn {
+  display: block;
+  width: 100%;
+  max-width: 200px;
+  margin: 0;
+}
+
+#current_featured_list {
+  display: block;
+  width: 100%;
+  margin-top: 2rem;
+}
+
+#current_featured_list h4 {
+  text-align: left;
+  display: block;
+  width: 100%;
+}
+
+#featured_list_items {
+  display: block;
+  width: 100%;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+
+
+/* =================
+override all widths for now until 
+*/
+/* ==========================
+   SERIES PAGE WIDTH ALIGNMENT
+   ========================== */
+
+/* All main sections share the same column width */
+#top,
+.usdgc-intro,
+#upcoming,
+.cardWinner,
+.cardChampions,
+.graphs,
+.watch,
+.map,
+#featured_events {
+  width: 100%;
+  max-width: var(--series-max-width);
+  margin: 24px auto;
+  box-sizing: border-box;
+}
+
+/* Header card was locked to 700px — let it fill the column */
+#top {
+  width: 100% !important;
+  margin-top: 32px;
+  padding: 32px 32px;  /* inner padding inside the white card */
+}
+
+/* Intro row: 3 equal flexible columns, full width */
+.usdgc-intro {
+  width: 100% !important;
+  margin: 18px auto 28px;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+  align-items: start;
+}
+
+/* Cards that were stuck at 980px — match the new width */
+#upcoming,
+.watch,
+.map,
+.about-card,
+.year-card {
+  max-width: var(--series-max-width) !important;
+}
+
+/* Tables: fill their containers instead of 720px */
+.table-wrapper,
+#up_events {
+  width: 100%;
+  max-width: 100%;
+}
+
+table#upcoming_table,
+table#past,
+#events,
+#series_champions {
+  table-layout: fixed;
+  width: 100% !important;
+  max-width: 100%;
+  margin: 0 auto;
+}

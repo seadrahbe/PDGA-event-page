@@ -1,0 +1,429 @@
+/* CSS FOR EDIT MODAL (Seadrah) */
+
+#searchEdit {
+  margin-bottom: 25px;
+  display: inline-block;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+
+#page_title {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+#event_logo_input {
+  margin: auto;
+}
+
+#event_form {
+  margin: auto;
+  padding: 30px;
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, .08);
+  border-radius: 1px;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, .12);
+}
+
+#event_form label {
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+
+#subtitle_checkboxes {
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+  justify-content: center;
+}
+
+/* pop-up test */
+
+.modal-body {
+  overflow-x: hidden;
+}
+
+.modal-body * {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+
+/* Modal Overlay - covers entire page with semi-transparent backdrop */
+.modal-overlay {
+    display: none; /* Hidden by default */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(5px);
+    z-index: 1000;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding: 20px 0;
+}
+
+.modal-overlay.active {
+    display: block;
+}
+
+/* Modal Container */
+.modal-container {
+    position: relative;
+    background: white;
+    border-radius: 8px;
+    max-width: 1000px;
+    width: 95%;
+    max-height: 85vh;
+    margin: 20px auto;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+    animation: slideDown 0.3s ease-out;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Modal Header */
+.modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 25px;
+    border-bottom: 1px solid #e0e0e0;
+    flex-shrink: 0;
+}
+
+.modal-header h2 {
+    margin: 0;
+    font-size: 20px;
+    color: #333;
+    flex: 1;
+    text-align: center;
+    margin-left: 36px;
+}
+
+/* Close Button */
+.modal-close {
+    background: none;
+    border: none;
+    font-size: 28px;
+    color: #666;
+    cursor: pointer;
+    padding: 0;
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.modal-close:hover {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+/* Modal Body */
+.modal-body {
+    padding: 15px 25px 20px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    flex: 1;
+    min-height: 0;
+}
+
+/* Custom scrollbar for modal body */
+.modal-body::-webkit-scrollbar {
+    width: 8px;
+}
+
+.modal-body::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+.modal-body::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+}
+
+.modal-body::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* Prevent body scroll when modal is open */
+body.modal-open {
+    overflow: hidden !important;
+}
+
+/* Form styling within modal - Override existing styles */
+.modal-body #event_form {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    display: block;
+}
+
+.modal-body #event_form {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+    text-align: left;
+    width: 100%;
+    /* grid-template-areas:
+    "logo logo logo logo"
+    "title title type type"
+    "loc loc dir dit"
+    "desc desc desc desc"
+    "sect sect sect sect"
+    "feat feat feat feat"
+     */
+}
+
+
+.modal-body #event_form .mb-5 {
+    margin-bottom: 0.75rem;
+}
+
+.modal-body #event_form .row {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 0.75rem;
+}
+
+.modal-body #event_form .col {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.modal-body #event_form label {
+    display: block;
+    margin-bottom: 4px;
+    font-weight: 600;
+    color: #333;
+    font-size: 13px;
+}
+
+.modal-body #event_form input[type="text"],
+.modal-body #event_form input[type="location"],
+.modal-body #event_form input[type="tel"],
+.modal-body #event_form textarea,
+.modal-body #event_form .form-control {
+    width: 100% !important;
+    padding: 6px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 13px;
+    transition: border-color 0.2s;
+    box-sizing: border-box;
+}
+
+.modal-body #event_form input:focus,
+.modal-body #event_form textarea:focus {
+    outline: none;
+    border-color: #007bff;
+}
+
+.modal-body #event_form textarea {
+    resize: vertical;
+    min-height: 50px;
+    max-height: 80px;
+}
+
+.modal-body #subtitle_checkboxes {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    margin-top: 4px;
+    justify-content: flex-start;
+}
+
+.modal-body #subtitle_checkboxes > div {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.modal-body #subtitle_checkboxes label {
+    margin-bottom: 0;
+    font-weight: normal;
+    font-size: 13px;
+}
+
+.modal-body #subtitle_checkboxes input[type="radio"] {
+    width: auto;
+    margin: 0;
+}
+
+.modal-body #event_logo_input {
+    display: block;
+    margin: 0 auto 10px !important;
+    border-radius: 8px;
+    max-width: 120px;
+    width: 100%;
+    height: auto;
+}
+
+.modal-body #event_form h2,
+.modal-body #event_form h5 {
+    font-size: 16px;
+    margin: 0.75rem 0 0.4rem 0;
+    color: #333;
+    text-align: left;
+}
+
+.modal-body #event_form #featured_events_edit {
+    text-align: left;
+}
+
+.modal-body #event_form #upcoming {
+    margin-bottom: 0.5rem;
+    text-align: left;
+}
+
+.modal-body #event_form .dbwinnertable_edit {
+    margin-bottom: 0.75rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    width: 100%;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+/* Make related events line up horizontally */
+.related-events-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+/* Individual related event tiles */
+.related-event-tile {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 12px 15px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #fff;
+  transition: background-color 0.2s, border-color 0.2s;
+  cursor: pointer;
+}
+
+.related-event-tile:hover {
+  background-color: #f8f9fa;
+}
+
+.modal-body #event_form .cardWinner_edit {
+    padding: 12px 15px;
+    border-radius: 4px;
+    text-align: left;
+    cursor: pointer;
+    transition: border-color 0.2s, background-color 0.2s;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.modal-body #event_form .cardWinner_edit:hover {
+    border-color: #253e58;
+    background-color: #f8f9fa;
+}
+
+
+.modal-body #event_form .cardWinner_edit h3 {
+    margin: 0;
+    font-size: 14px;
+    color: #666;
+    flex: 1;
+}
+
+.modal-body #event_form .cardWinner_edit .plus-icon {
+    font-size: 20px;
+    color: #14283d;
+    font-weight: bold;
+    line-height: 1;
+}
+
+.modal-body #event_form .cardWinner_edit.section-item h3 {
+    color: #152b42;
+    cursor: text;
+}
+
+.modal-body #event_form .cardWinner_edit.section-item:hover h3 {
+    text-decoration: underline;
+}
+
+.modal-body #event_form .cardWinner_edit .delete-btn {
+    color: #382f30;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 0 5px;
+    line-height: 1;
+}
+
+.modal-body #event_form .cardWinner_edit .delete-btn:hover {
+    color: #a02a2a;
+}
+
+.modal-body .btn-primary {
+    background-color: #142b42;
+    color: white;
+    border: none;
+    padding: 8px 24px;
+    font-size: 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    margin-top: 0.75rem;
+    justify-self: center;
+    width: 100px;
+}
+
+.btn-primary:hover {
+    background-color: #142b42;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .modal-container {
+        margin: 20px auto;
+        max-width: calc(100% - 40px);
+    }
+    
+    #event_form .row {
+        flex-direction: column;
+        gap: 0;
+    }
+    
+    .modal-header,
+    .modal-body {
+        padding: 20px;
+    }
+}

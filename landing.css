@@ -1,0 +1,117 @@
+/* ==========================
+   H1 title
+========================== */
+
+.series-main-title {
+  margin: 26px auto 8px;
+  font-size: clamp(1.9rem, 3vw, 2.3rem); 
+  line-height: 1.2;
+
+  color: #ffffff !important;
+
+  letter-spacing: .02em;                
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 800;                      
+  position: relative;
+}
+
+.series-main-title::after {
+  content: "";
+  display: block;
+  height: 3px;                      
+  width: 280px;                     
+  margin: 10px auto 0;
+  background: linear-gradient(90deg, #05426e, #0b507e);
+  border-radius: 999px;
+}
+
+/* ==========================
+   Search bar
+========================== */
+
+.series-search-form {
+  margin: 16px auto 22px;
+  max-width: 520px;     
+  width: 100%;
+  padding: 8px 12px;     
+  background: #ffffff;
+  border-radius: 9999px;
+  border: 1px solid #dbe7f0;
+  box-shadow: 0 5px 16px rgba(0,0,0,.08);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.series-search-form input[type="text"] {
+  flex: 1;
+  border: none;
+  background: transparent;
+  font-size: 0.7rem;    
+  padding: 6px 6px;
+  outline: none;
+  color: #212439;
+}
+
+.series-search-form input[type="text"]::placeholder {
+  color: #8b93a4;
+}
+
+.series-search-form button {
+  border: 1px solid #03253e;
+  padding: 8px 18px;
+  border-radius: 9999px;
+  font-size: 0.9rem;        
+  font-weight: 700;
+  cursor: pointer;
+  background: linear-gradient(to bottom, #05426e 0%, #03253e 100%);
+  color: #ffffff;
+  white-space: nowrap;
+  transition: transform .15s ease, box-shadow .15s ease, background .15s ease;
+}
+
+.series-search-form button:hover {
+  background: #0b507e;
+  box-shadow: 0 5px 16px rgba(5,66,110,.3);
+  transform: translateY(-1px);
+}
+
+/*========================
+ table Width 
+=======================*/
+/* Widen the series list table  */
+#panel table {
+  width: 100%;
+  max-width: 1100px;   /* adjust bigger or smaller */
+  margin: 0 auto 40px;
+}
+
+/* Optional: widen the table wrapper if it exists */
+#panel .table-wrapper,
+#panel .landing-table-wrapper {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/*==================
+ Blue banner/ tool bar below /Landing page version of the series toolbar
+ ======================*/
+
+.landing-toolbar {
+  flex-direction: column;     
+  align-items: center;
+  justify-content: center;
+  gap: 14px;                
+}
+
+.landing-toolbar .series-main-title {
+  color: #ffffff;
+}
+
+.landing-toolbar .series-search-form {
+  margin: 0 auto;
+}
+
+
+

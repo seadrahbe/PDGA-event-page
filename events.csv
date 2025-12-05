@@ -1,0 +1,683 @@
+id,pdga_event_id,event_name,start_date,end_date,city,state,country,tier,website_url,tournament_director
+90974,90947,2025 PDGA Professional World Championships Presented By Discmania,2025-07-30,2025-08-03,Nokia,,Finland,M,https://www.pdga.com/tour/event/90947,Tapani Aulu
+88678,88656,2025 United States Disc Golf Championship,2025-10-09,2025-10-12,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/88656,Jonathan Poole
+88677,88655,2025 PDGA Amateur World Championships,2025-08-19,2025-08-23,Columbia,Missouri,United States,M,https://www.pdga.com/tour/event/88655,Adam Morrison
+88676,88654,2025 PDGA Junior World Championships,2025-07-15,2025-07-19,Emporia,Kansas,United States,M,https://www.pdga.com/tour/event/88654,Jackie Morris
+88674,88652,2025 PDGA Professional Masters World Championships presented by ZÜCA,2025-07-01,2025-07-05,Twin Cities,Minnesota,United States,M,https://www.pdga.com/tour/event/88652,Jason Wilder
+88673,88651,"2025 PDGA United States Women's Disc Golf Championships Presented by Discraft & SeehaferNews.com",2025-06-19,2025-06-22,Manitowoc,Wisconsin,United States,M,https://www.pdga.com/tour/event/88651,Jim Van Lanen
+88662,88638,2025 PDGA Champions Cup by OTB & MVP Disc Sports,2025-05-01,2025-05-04,Stockton,California,United States,M,https://www.pdga.com/tour/event/88638,Sean Jack
+88383,88357,DGPT - Preserve Championship,2025-06-13,2025-06-15,Clearwater,Minnesota,United States,NT,https://www.pdga.com/tour/event/88357,Tom Odegaard
+88328,88302,The 10th Disc Golf Pro Tour Championship presented by Barbasol,2025-10-16,2025-10-19,Forest,Virginia,United States,NT,https://www.pdga.com/tour/event/88302,Nate Heinold
+88327,88301,DGPT Playoffs - MVP Open x OTB,2025-09-25,2025-09-28,Leicester,Massachusetts,United States,NT,https://www.pdga.com/tour/event/88301,Steven Dodge
+88325,88299,DGPT Playoffs - Green Mountain Championship,2025-09-18,2025-09-21,Jeffersonville,Vermont,United States,NT,https://www.pdga.com/tour/event/88299,Jeff Spring
+88322,88296,DGPT+ Discraft Great Lakes Open presented by Gerrit J. Verburg Co.,2025-09-04,2025-09-07,Milford,Michigan,United States,NT,https://www.pdga.com/tour/event/88296,Nate Heinold
+88320,88294,DGPT - LWS Open at Idlewild,2025-08-22,2025-08-24,Burlington,Kentucky,United States,NT,https://www.pdga.com/tour/event/88294,Adam Jones
+88319,88293,DGPT+ Discraft Ledgestone Open presented by Züca,2025-08-14,2025-08-17,Peoria,Illinois,United States,NT,https://www.pdga.com/tour/event/88293,Nate Heinold
+88314,88288,DGPT - Discmania Challenge presented by TruBank,2025-06-27,2025-06-29,Indianola,Iowa,United States,NT,https://www.pdga.com/tour/event/88288,Ty Tannatt
+88312,88286,DGPT+ Northwest Disc Golf Championship presented by Latitude 64,2025-05-29,2025-06-01,Portland,Oregon,United States,NT,https://www.pdga.com/tour/event/88286,Brian Cole
+88308,88282,DGPT - MVP Music City Open Presented by Another Round,2025-04-04,2025-04-06,Antioch,Tennessee,United States,NT,https://www.pdga.com/tour/event/88282,Zachary Hoy
+88304,88277,DGPT - Prodigy presents WACO,2025-03-14,2025-03-16,Waco,Texas,United States,NT,https://www.pdga.com/tour/event/88277,Ryan Draper
+87277,87231,30th Annual Texas State Disc Golf Championships - Supported by Innova,2025-03-28,2025-03-30,Houston,Texas,United States,A,https://www.pdga.com/tour/event/87231,Chris Vandagriff
+87081,87074,47th Annual Wintertime Open (Amateur Weekend) - Presented by Legacy Discs,2025-02-07,2025-02-09,Pasadena,California,United States,B,https://www.pdga.com/tour/event/87074,Mike Jewel
+87127,87073,47th Annual Wintertime Open (Pro Weekend) - Presented by Legacy Discs,2025-02-14,2025-02-16,Pasadena,California,United States,A,https://www.pdga.com/tour/event/87073,Steve Rico
+86546,86528,Shelly Sharpe Memorial presented by Spinners on the Green,2025-02-14,2025-02-16,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/86528,Keith Murray
+86541,86522,Memorial Championship presented by Discraft,2025-01-16,2025-01-19,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/86522,Keith Murray
+86451,86425,Las Vegas Challenge presented by Innova,2025-05-15,2025-05-18,Henderson,Nevada,United States,A,https://www.pdga.com/tour/event/86425,Jeffrey Jacquart
+82442,82419,"DGPT Playoffs - Discraft's Green Mountain Championship at Smugglers' Notch Resort",2024-09-19,2024-09-22,"Smugglers' Notch",Vermont,United States,NT,https://www.pdga.com/tour/event/82419,Jeff Spring
+78293,78271,DGPT - The Preserve Championship connected by Microsoft Teams,2024-06-21,2024-06-23,Clearwater,Minnesota,United States,NT,https://www.pdga.com/tour/event/78271,Tom Odegaard
+77801,77774,DGPT Championship presented by Barbasol,2024-10-17,2024-10-20,Charlotte,North Carolina,United States,NT,https://www.pdga.com/tour/event/77774,Jeff Spring
+77800,77773,DGPT Playoffs- MVP Open x OTB,2024-09-26,2024-09-29,Leicester,Massachusetts,United States,NT,https://www.pdga.com/tour/event/77773,Steven Dodge
+77799,77772,DGPT+ Discraft Great Lakes Open presented by Gerrit J Verburg,2024-09-05,2024-09-08,Milford,Michigan,United States,NT,https://www.pdga.com/tour/event/77772,Nate Heinold
+77798,77771,DGPT - LWS Open at Idlewild presented by Dynamic Discs & The Nati,2024-08-09,2024-08-11,Burlington,Kentucky,United States,NT,https://www.pdga.com/tour/event/77771,Adam Jones
+77796,77769,"DGPT+ Discraft's Ledgestone Open presented by GRIPeq",2024-08-01,2024-08-04,Eureka,Illinois,United States,NT,https://www.pdga.com/tour/event/77769,Nate Heinold
+77795,77768,DGPT - Trubank Des Moines Challenge Presented by DGA,2024-07-05,2024-07-07,Indianola,Iowa,United States,NT,https://www.pdga.com/tour/event/77768,Ty Tannatt
+77793,77766,DGPT - 2024 Beaver State Fling Presented by Innova,2024-06-07,2024-06-09,Estacada,Oregon,United States,NT,https://www.pdga.com/tour/event/77766,Jesse Tomaino
+77792,77765,DGPT+ 2024 Portland Open presented by Latitude64,2024-05-30,2024-06-02,Portland,Oregon,United States,NT,https://www.pdga.com/tour/event/77765,Brian Cole
+77791,77764,DGPT - OTB Open presented by MVP Disc Sports + WGE,2024-05-17,2024-05-19,Stockton,California,United States,NT,https://www.pdga.com/tour/event/77764,Sean Jack
+77790,77763,DGPT - Dynamic Discs Open,2024-05-03,2024-05-05,Emporia,Kansas,United States,NT,https://www.pdga.com/tour/event/77763,Jackie Morris
+77789,77762,DGPT - Music City Open presented by Lone Star Disc,2024-04-19,2024-04-21,Antioch,Tennessee,United States,NT,https://www.pdga.com/tour/event/77762,Zachary Hoy
+77788,77761,DGPT - Play It Again Sports Jonesboro Open - presented by Westside Discs,2024-04-12,2024-04-14,Jonesboro,Arkansas,United States,NT,https://www.pdga.com/tour/event/77761,Brad Pietz
+77787,77760,DGPT - Texas State Disc Golf Championships - presented by Lone Star Disc,2024-03-29,2024-03-31,Houston,Texas,United States,NT,https://www.pdga.com/tour/event/77760,Chris Vandagriff
+77785,77758,DGPT+ Prodigy presents WACO,2024-03-07,2024-03-10,Waco,Texas,United States,NT,https://www.pdga.com/tour/event/77758,Ryan Draper
+77777,77750,2024 European Open presented by Discmania,2024-07-18,2024-07-21,Nokia and Tampere,,Finland,M,https://www.pdga.com/tour/event/77750,Jukka Teras
+77154,77133,2024 PDGA Professional Masters Disc Golf World Championships,2024-06-11,2024-06-15,Emporia,Kansas,United States,M,https://www.pdga.com/tour/event/77133,Jackie Morris
+77124,77099,2024 PDGA Champions Cup,2024-04-25,2024-04-28,Morton,Illinois,United States,M,https://www.pdga.com/tour/event/77099,Nate Heinold
+77123,77098,2024 United States Disc Golf Championship,2024-10-10,2024-10-13,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/77098,Jonathan Poole
+77121,77096,2024 PDGA Amateur Disc Golf World Championships Presented by Discraft,2024-08-06,2024-08-10,Grand Rapids,Michigan,United States,M,https://www.pdga.com/tour/event/77096,Jacob Stahl
+77120,77095,2024 PDGA Junior Disc Golf World Championships,2024-07-16,2024-07-20,Tulsa,Oklahoma,United States,M,https://www.pdga.com/tour/event/77095,Kyle Gibson
+77116,77091,"2024 United States Women's Disc Golf Championships presented by Mint Discs",2024-03-21,2024-03-24,Round Rock,Texas,United States,M,https://www.pdga.com/tour/event/77091,Zachery Jansen
+76552,76438,46th Wintertime Open Presented by Legacy Discs - Pro + MA1 Weekend,2024-02-16,2024-02-18,Pasadena,California,United States,A,https://www.pdga.com/tour/event/76438,Steve Rico
+76461,76436,46th Wintertime Open Presented by PinDeepDiscGolf - Am Weekend,2024-02-09,2024-02-11,Pasadena,California,United States,B,https://www.pdga.com/tour/event/76436,Mike Jewel
+75859,75833,"Discraft's Ledgestone Open",2024-08-02,2024-08-04,Eureka,Illinois,United States,A,https://www.pdga.com/tour/event/75833,Nate Heinold
+75788,75776,29th Annual Texas State Disc Golf Championships - Presented by Lone Star Discs,2024-04-05,2024-04-07,Houston,Texas,United States,A,https://www.pdga.com/tour/event/75776,Chris Vandagriff
+75722,75696,Shelly Sharpe Memorial presented by SpinnersontheGreen.com,2024-01-19,2024-01-21,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/75696,Keith Murray
+75721,75695,The Memorial Championship presented by Discraft,2024-02-29,2024-03-03,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/75695,Keith Murray
+75438,75426,Las Vegas Challenge presented by Innova,2024-05-09,2024-05-12,Henderson,Nevada,United States,A,https://www.pdga.com/tour/event/75426,Jeffrey Jacquart
+73629,74356,Disc Golf Pro Tour Championship presented by Barbasol,2023-10-12,2023-10-15,Charlotte,North Carolina,United States,NT,https://www.pdga.com/tour/event/74356,Jeff Spring
+70720,71315,2024 PDGA Professional Disc Golf World Championships Presented by Zuca,2024-08-21,2024-08-25,Lynchburg,Virginia,United States,M,https://www.pdga.com/tour/event/71315,Nate Heinold
+68516,69022,DGPT Elite+ 2023 Portland Open presented by Latitude 64,2023-06-01,2023-06-04,Portland,Oregon,United States,NT,https://www.pdga.com/tour/event/69022,Brian Cole
+68256,68748,2023 PDGA Professional Disc Golf World Championships Presented by L.L.Bean,2023-08-30,2023-09-03,Jeffersonville,Vermont,United States,M,https://www.pdga.com/tour/event/68748,Jeff Spring
+67883,68353,DGPT - The Preserve Championship powered by Prodigy,2023-06-30,2023-07-02,Clearwater,Minnesota,United States,NT,https://www.pdga.com/tour/event/68353,Tom Odegaard
+67434,67761,"Discraft Presents: 2023 United States Women's Disc Golf Championships",2023-09-21,2023-09-24,Burlington,North Carolina,United States,M,https://www.pdga.com/tour/event/67761,Chuck Connelly
+67081,67392,DGPT - The TruBank Des Moines Challenge presented by Discraft,2023-06-23,2023-06-25,Indianola,Iowa,United States,NT,https://www.pdga.com/tour/event/67392,Ty Tannatt
+66911,67202,European Open 2023 presented by Discmania,2023-07-20,2023-07-23,Nokia,,Finland,M,https://www.pdga.com/tour/event/67202,Petri Anttiroiko
+66264,66525,DGPT Silver - Beaver State Fling Presented by Innova,2023-05-19,2023-05-21,Estacada,Oregon,United States,A,https://www.pdga.com/tour/event/66525,Jesse Tomaino
+66251,66511,2023 PDGA Professional Masters Disc Golf World Championships,2023-07-11,2023-07-15,Flagstaff,Arizona,United States,M,https://www.pdga.com/tour/event/66511,Bill Block
+66249,66458,DGPT - Play It Again Sports Jonesboro Open presented by Prodigy,2023-04-28,2023-04-30,Jonesboro,Arkansas,United States,NT,https://www.pdga.com/tour/event/66458,Brad Pietz
+66248,66457,DGPT - Prodigy presents WACO,2023-03-10,2023-03-12,Waco,Texas,United States,NT,https://www.pdga.com/tour/event/66457,Ryan Draper
+66163,66182,DGPT Silver - Innova Open at The 28th Annual Texas State Disc Golf Championships,2023-03-24,2023-03-26,Houston,Texas,United States,A,https://www.pdga.com/tour/event/66182,Chris Vandagriff
+66155,66174,DGPT - LWS Open at Idlewild presented by Dynamic Discs & The Nati,2023-08-11,2023-08-13,Burlington,Kentucky,United States,NT,https://www.pdga.com/tour/event/66174,Adam Jones
+65283,65291,DGPT Playoffs - MVP Open presented by OTB,2023-09-14,2023-09-17,Leicester,Massachusetts,United States,NT,https://www.pdga.com/tour/event/65291,Steven Dodge
+65281,65289,DGPT - Dynamic Discs Open,2023-06-16,2023-06-18,Emporia,Kansas,United States,NT,https://www.pdga.com/tour/event/65289,Jackie Morris
+65210,65208,DGPT Elite - Music City Open presented by Lone Star Disc,2023-04-07,2023-04-09,Nashville,Tennessee,United States,NT,https://www.pdga.com/tour/event/65208,Zachary Hoy
+65209,65207,DGPT - OTB Open presented by MVP Disc Sports,2023-05-12,2023-05-14,Stockton,California,United States,NT,https://www.pdga.com/tour/event/65207,Sean Jack
+65208,65206,DGPT - Las Vegas Challenge presented by Innova,2023-02-23,2023-02-26,Henderson,Nevada,United States,NT,https://www.pdga.com/tour/event/65206,Jessica Jacquart
+65120,65116,DGPT - Discraft Great Lakes Open,2023-08-17,2023-08-20,Milford,Michigan,United States,NT,https://www.pdga.com/tour/event/65116,Nate Heinold
+65119,65115,DGPT - Discraft Ledgestone Open,2023-08-03,2023-08-06,Eureka,Illinois,United States,NT,https://www.pdga.com/tour/event/65115,Nate Heinold
+65118,65114,28th Annual Texas State Disc Golf Championships - Presented by Innova,2023-03-24,2023-03-26,Houston,Texas,United States,A,https://www.pdga.com/tour/event/65114,Chris Vandagriff
+65099,65095,Discraft Ledgestone Open,2023-08-04,2023-08-06,Eureka,Illinois,United States,A,https://www.pdga.com/tour/event/65095,Nate Heinold
+64973,64957,United States Disc Golf Championship,2023-10-05,2023-10-08,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/64957,Jonathan Poole
+64971,64955,PDGA Champions Cup Presented by Bushnell,2023-04-20,2023-04-23,Appling,Georgia,United States,M,https://www.pdga.com/tour/event/64955,Nate Heinold
+64968,64952,2023 PDGA Amateur Disc Golf World Championships,2023-06-27,2023-07-01,Peoria,Illinois,United States,M,https://www.pdga.com/tour/event/64952,Nate Heinold
+64967,64951,2023 PDGA Junior Disc Golf World Championships,2023-06-27,2023-07-01,Peoria,Illinois,United States,M,https://www.pdga.com/tour/event/64951,Nate Heinold
+51930,64729,45th Annual Wintertime Open - Presented by PinDeepDiscGolf.com (Ams),2023-02-10,2023-02-12,Pasadena,California,United States,B,https://www.pdga.com/tour/event/64729,Mike Jewel
+64884,64728,45th Annual Wintertime Open - Presented by Legacy Discs,2023-02-17,2023-02-19,Pasadena,California,United States,A,https://www.pdga.com/tour/event/64728,Steve Rico
+51809,64604,Shelly Sharpe Memorial presented by Spinners on the Green,2023-01-20,2023-01-22,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/64604,Keith Murray
+51808,64603,The Memorial Championship presented by Discraft,2023-03-02,2023-03-05,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/64603,Keith Murray
+44006,56537,27th Annual Texas State Disc Golf Championship Sponsored by Latitude 64,2022-04-02,2022-04-03,Tyler,Texas,United States,A,https://www.pdga.com/tour/event/56537,Steven Storrie
+43759,56288,"2022 United States Women's Disc Golf Championships Presented by Innova",2022-06-30,2022-07-03,Madison,Wisconsin,United States,M,https://www.pdga.com/tour/event/56288,Mike Batka
+43484,56013,European Open presented by Discmania,2022-07-21,2022-07-24,Nokia,,Finland,M,https://www.pdga.com/tour/event/56013,Petri Anttiroiko
+43423,55952,44th Annual Wintertime Open - Presented by Legacy Discs (Pro Weekend),2022-02-11,2022-02-13,Pasadena,California,United States,B,https://www.pdga.com/tour/event/55952,Steve Rico
+43422,55951,44th Annual Wintertime Open - Presented by PinDeepDiscGolf.com (Am Weekend),2022-02-04,2022-02-06,Pasadena,California,United States,B,https://www.pdga.com/tour/event/55951,Mike Jewel
+43260,55789,MadeFirst presents the Dynamic Discs Music City Open - DGPT Silver Series,2022-04-01,2022-04-03,Nashville,Tennessee,United States,A,https://www.pdga.com/tour/event/55789,Zachary Hoy
+43174,55703,Discraft presents the 2022 Beaver State Fling sponsored by Resistance Discs—DGPT Silver Series,2022-06-10,2022-06-12,Estacada,Oregon,United States,A,https://www.pdga.com/tour/event/55703,Jesse Tomaino
+43072,55601,"2022 Discraft's Ledgestone Open",2022-08-12,2022-08-14,Eureka,Illinois,United States,A,https://www.pdga.com/tour/event/55601,Nate Heinold
+43066,55595,Disc Golf Pro Tour Championship presented by Barbasol,2022-10-13,2022-10-16,Charlotte,North Carolina,United States,NT,https://www.pdga.com/tour/event/55595,Jeffrey Spring
+43065,55594,DGPT - MVP Open at Maple Hill,2022-09-22,2022-09-25,Leicester,Massachusetts,United States,NT,https://www.pdga.com/tour/event/55594,Steven Dodge
+43064,55593,"DGPT Playoffs - Discraft's Green Mountain Championship",2022-09-15,2022-09-18,"Smugglers' Notch",Vermont,United States,NT,https://www.pdga.com/tour/event/55593,Jeff Spring
+43063,55592,DGPT - The TruBank Des Moines Challenge presented by Discraft,2022-08-19,2022-08-21,Indianola,Iowa,United States,NT,https://www.pdga.com/tour/event/55592,Ty Tannatt
+43062,55591,DGPT - Discraft Ledgestone Open,2022-08-11,2022-08-14,Eureka,Illinois,United States,NT,https://www.pdga.com/tour/event/55591,Nate Heinold
+43061,55590,"DGPT - Discraft's Great Lakes Open",2022-07-29,2022-07-31,Milford,Michigan,United States,NT,https://www.pdga.com/tour/event/55590,Nate Heinold
+43060,55589,DGPT - LWS Open at Idlewild presented by Dynamic Discs & The Nati,2022-07-08,2022-07-10,Burlington,Kentucky,United States,NT,https://www.pdga.com/tour/event/55589,Adam Jones
+43059,55588,DGPT - The Preserve Championship designed by Leiviska Disc Golf,2022-06-24,2022-06-26,Clearwater,Minnesota,United States,NT,https://www.pdga.com/tour/event/55588,Jeff Spring
+43058,55587,DGPT - Portland Open presented by Dynamic Discs,2022-06-02,2022-06-05,Fairview,Oregon,United States,NT,https://www.pdga.com/tour/event/55587,Brian Cole
+43057,55586,DGPT - OTB Open presented by MVP Disc Sports,2022-05-20,2022-05-22,Stockton,California,United States,NT,https://www.pdga.com/tour/event/55586,Sean Jack
+43056,55585,DGPT - Dynamic Discs Open,2022-04-28,2022-05-01,Emporia,Kansas,United States,NT,https://www.pdga.com/tour/event/55585,Jackie Morris
+43055,55584,DGPT - Play It Again Sports Jonesboro Open powered by Prodigy,2022-04-22,2022-04-24,Jonesboro,Arkansas,United States,NT,https://www.pdga.com/tour/event/55584,Brad Pietz
+43054,55583,DGPT - 27th Annual Texas State Disc Golf Championship Presented by Latitude 64,2022-03-25,2022-03-27,Tyler,Texas,United States,NT,https://www.pdga.com/tour/event/55583,Steven Storrie
+43053,55582,DGPT - Waco Annual Charity Open presented by Prodigy Disc,2022-03-11,2022-03-13,Waco,Texas,United States,NT,https://www.pdga.com/tour/event/55582,Ryan Draper
+43051,55580,DGPT - Las Vegas Challenge presented by Innova,2022-02-24,2022-02-27,Henderson,Nevada,United States,NT,https://www.pdga.com/tour/event/55580,Jeff Jacquart
+42931,55460,2022 PDGA Professional Disc Golf World Championships Presented by Dynamic Discs,2022-08-30,2022-09-03,Emporia,Kansas,United States,M,https://www.pdga.com/tour/event/55460,Doug Bjerkaas
+42930,55459,2022 PDGA Junior Disc Golf World Championships,2022-07-13,2022-07-16,Peoria,Illinois,United States,M,https://www.pdga.com/tour/event/55459,Nate Heinold
+42929,55458,2022 PDGA Masters Disc Golf World Championships,2022-07-12,2022-07-16,Peoria,Illinois,United States,M,https://www.pdga.com/tour/event/55458,Nate Heinold
+42925,55454,United States Disc Golf Championship,2022-10-06,2022-10-09,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/55454,Jonathan Poole
+42924,55453,2022 PDGA Amateur Disc Golf World Championships presented by Toyota,2022-06-21,2022-06-25,Princeton,Indiana,United States,M,https://www.pdga.com/tour/event/55453,Steven Waites
+42922,55451,PDGA Champions Cup Presented by Bushnell,2022-04-14,2022-04-17,Appling,Georgia,United States,M,https://www.pdga.com/tour/event/55451,Robert Leonard
+42796,55325,Shelly Sharpe Memorial presented by Spinners on the Green,2022-01-14,2022-01-16,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/55325,Keith Murray
+42693,55222,9th Annual Infinite Discs Maricopa Open presented by the Disc Shack,2022-01-28,2022-01-30,Maricopa,Arizona,United States,B,https://www.pdga.com/tour/event/55222,Sam Russ
+42641,55170,Memorial Championship presented by Discraft,2022-03-03,2022-03-06,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/55170,Keith Murray
+42456,54985,1988 Texas State Flying Disc Championships,1988-10-15,1988-10-16,Austin,Texas,United States,C,https://www.pdga.com/tour/event/54985,0
+42447,54976,43rd Annual Wintertime Open - Presented by PinDeepDiscGolf.com - (Am Day),2021-12-05,2021-12-05,Pasadena,California,United States,B,https://www.pdga.com/tour/event/54976,Steve Rico
+42444,54973,43rd Annual Wintertime Open - Presented by Legacy Discs (Pro Day),2021-12-04,2021-12-04,Pasadena,California,United States,B,https://www.pdga.com/tour/event/54973,Steve Rico
+26558,52009,DGPT - Des Moines Challenge presented by Discraft,2021-07-09,2021-07-11,Indianola,Iowa,United States,NT,https://www.pdga.com/tour/event/52009,Ty Tannatt
+27297,50463,DGPT Match Play Championship presented by Discmania,2021-09-16,2021-09-19,Hellertown,Pennsylvania,United States,XB,https://www.pdga.com/tour/event/50463,Steven Braud
+1034,50171,EDGF 2021 European Disc Golf Championship,2021-08-11,2021-08-14,Konopiště,Benešov,Czech Republic,XA,https://www.pdga.com/tour/event/50171,Kryštof Novák
+1047,49214,DGPT - MVP Open at Maple Hill,2021-09-03,2021-09-05,Leicester,Massachusetts,United States,NT,https://www.pdga.com/tour/event/49214,Steven Dodge
+1070,48691,DGPT Tour Championship,2021-10-14,2021-10-17,Charlotte,North Carolina,United States,NT,https://www.pdga.com/tour/event/48691,Jeffrey Spring
+1051,48690,"DGPT - Discraft's Green Mountain Championship at Smugglers' Notch Resort",2021-09-09,2021-09-12,"Smugglers' Notch",Vermont,United States,NT,https://www.pdga.com/tour/event/48690,Jeffrey Spring
+1037,48688,DGPT - Idlewild Open presented by Dynamic Discs & The Nati,2021-08-13,2021-08-15,Burlington,Kentucky,United States,NT,https://www.pdga.com/tour/event/48688,Adam Jones
+1026,48687,DGPT - The Preserve Championship designed by Leiviska Disc Golf,2021-07-30,2021-08-01,Clearwater,Minnesota,United States,NT,https://www.pdga.com/tour/event/48687,Jeff Spring
+996,48686,DGPT - Portland Open presented by Dynamic Discs,2021-06-04,2021-06-06,Portland,Oregon,United States,NT,https://www.pdga.com/tour/event/48686,Jeff Spring
+966,48685,DGPT - Waco Annual Charity Open presented by Prodigy Disc,2021-03-12,2021-03-14,Waco,Texas,United States,NT,https://www.pdga.com/tour/event/48685,Ryan Draper
+975,48567,DGPT - Play It Again Sports Jonesboro Open powered by Prodigy,2021-04-16,2021-04-18,Jonesboro,Arkansas,United States,NT,https://www.pdga.com/tour/event/48567,Brad Pietz
+1062,48351,2021 Music City Open Presented by Dynamic Discs - A Tier,2021-09-23,2021-09-25,Nashville,Tennessee,United States,A,https://www.pdga.com/tour/event/48351,Zachary Hoy
+1023,48338,"DGPT - Discraft's Great Lakes Open",2021-07-23,2021-07-25,Milford,Michigan,United States,NT,https://www.pdga.com/tour/event/48338,Nate Heinold
+988,48172,DGPT - OTB Open presented by Innova,2021-05-14,2021-05-16,Stockton,California,United States,NT,https://www.pdga.com/tour/event/48172,Sean Jack
+965,48068,Memorial Championship presented by Discraft,2021-03-04,2021-03-07,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/48068,Keith Murray
+969,48008,26th Annual Texas State Disc Golf Championships Presented by Latitude 64 - A GDG $5K/$10K event,2021-03-25,2021-03-27,Tyler,Texas,United States,A,https://www.pdga.com/tour/event/48008,Steven Storrie
+2741,47994,Shelly Sharpe Memorial presented by SpinnersontheGreen.com,2021-01-15,2021-01-17,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/47994,Keith Murray
+1032,47982,Discraft Ledgestone Insurance Open presented by GRIPeq,2021-08-06,2021-08-08,Eureka,Illinois,United States,A,https://www.pdga.com/tour/event/47982,Nate Heinold
+1030,47981,DGPT - Discraft Ledgestone Insurance Open presented by GRIPeq,2021-08-05,2021-08-08,Eureka,Illinois,United States,NT,https://www.pdga.com/tour/event/47981,Nate Heinold
+963,47877,DGPT - Las Vegas Challenge presented by Innova,2021-02-25,2021-02-28,Henderson,Nevada,United States,NT,https://www.pdga.com/tour/event/47877,Jeff Jacquart
+964,47870,Las Vegas Challenge presented by Innova (Non-DGPT Divisions),2021-02-25,2021-02-28,Henderson,Nevada,United States,A,https://www.pdga.com/tour/event/47870,Jeff Jacquart
+2669,47816,8th Annual Maricopa Open presented by Infinite Discs,2021-01-30,2021-01-31,Maricopa,Arizona,United States,B,https://www.pdga.com/tour/event/47816,Sam Russ
+1005,47784,2021 PDGA Professional Disc Golf World Championships Presented by Grip6,2021-06-22,2021-06-26,Ogden,Utah,United States,M,https://www.pdga.com/tour/event/47784,Jade Sewell
+1063,47541,2021 Music City Open Presented by Dynamic Discs - NT Finale,2021-09-23,2021-09-26,Nashville,Tennessee,United States,NT,https://www.pdga.com/tour/event/47541,Wil McKaskle
+1045,47520,Delaware Disc Golf Challenge - National Tour - Driven by Innova,2021-08-27,2021-08-29,Newark,Delaware,United States,NT,https://www.pdga.com/tour/event/47520,Adam Harris
+989,47519,"2021 United States Women's Disc Golf Championships Presented by Innova Champion Discs",2021-05-21,2021-05-23,"Orangevale,  Rocklin,  Auburn",California,United States,M,https://www.pdga.com/tour/event/47519,Jenny Knisley
+1069,47518,United States Disc Golf Championship,2021-10-06,2021-10-09,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/47518,Jonathan Poole
+40891,47517,2021 PDGA Amateur Disc Golf World Championships presented by Dynamic Discs & Latitude 64,2021-08-17,2021-08-21,Orlando,Florida,United States,M,https://www.pdga.com/tour/event/47517,Mark Janssen
+979,47516,Dynamic Discs Open - National Tour,2021-04-28,2021-05-01,Emporia,Kansas,United States,NT,https://www.pdga.com/tour/event/47516,Doug Bjerkaas
+40723,47515,2021 PDGA Junior Disc Golf World Championships presented by Dynamic Discs,2021-07-07,2021-07-10,Emporia,Kansas,United States,M,https://www.pdga.com/tour/event/47515,Doug Bjerkaas
+1029,47513,2021 PDGA Professional Masters Disc Golf World Championships,2021-08-03,2021-08-07,Johnson City,Tennessee,United States,M,https://www.pdga.com/tour/event/47513,Tim Barr
+971,47512,26th Annual Texas State Disc Golf Championship Presented by Latitude 64 - National Tour,2021-03-26,2021-03-28,Tyler,Texas,United States,NT,https://www.pdga.com/tour/event/47512,Steven Storrie
+948,46345,"Women's National Championship",2020-10-07,2020-10-10,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/46345,Jonathan Poole
+882,45796,DGPT - Dynamic Discs Open,2020-06-26,2020-06-28,Emporia,Kansas,United States,NT,https://www.pdga.com/tour/event/45796,Doug Bjerkaas
+886,45795,DGPT - The Preserve Championship,2020-07-03,2020-07-05,Clearwater,Minnesota,United States,NT,https://www.pdga.com/tour/event/45795,Jeff Spring
+850,45313,Waco Annual Charity Open presented by Prodigy Disc,2020-03-13,2020-03-15,Waco,Texas,United States,A,https://www.pdga.com/tour/event/45313,Ryan Draper
+951,44743,DGPT Tour Championship presented by GRIP6,2020-10-15,2020-10-18,Charlotte,North Carolina,United States,NT,https://www.pdga.com/tour/event/44743,Jeffrey Spring
+928,44653,DGPT - MVP Open at Maple Hill,2020-09-11,2020-09-13,Leicester,Massachusetts,United States,NT,https://www.pdga.com/tour/event/44653,Steven Dodge
+897,44224,"DGPT - Discraft's Great Lakes Open (DGLO)",2020-07-24,2020-07-26,Milford,Michigan,United States,NT,https://www.pdga.com/tour/event/44224,John Norkowski
+849,44144,DGPT - Waco Annual Charity Open presented by Prodigy Disc,2020-03-12,2020-03-14,Waco,Texas,United States,NT,https://www.pdga.com/tour/event/44144,Ryan Draper
+5913,44140,Shelly Sharpe Memorial presented by Spinners on the Green,2020-01-10,2020-01-12,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/44140,Keith Murray
+848,44118,DGPT - The Memorial Championship presented by Discraft,2020-02-27,2020-03-01,Scottsdale,Arizona,United States,NT,https://www.pdga.com/tour/event/44118,Keith Murray
+924,44114,"DGPT - Discraft's Green Mountain Championship at Smugglers' Notch Resort",2020-09-03,2020-09-06,"Smugglers' Notch",Vermont,United States,NT,https://www.pdga.com/tour/event/44114,Jeffrey Spring
+908,43983,DGPT - Idlewild Open presented by Dynamic Discs & The Nati,2020-08-07,2020-08-09,Burlington,Kentucky,United States,NT,https://www.pdga.com/tour/event/43983,Adam Jones
+39928,43840,The 42nd Annual Wintertime Open Presented by Paul McBeth (AM Weekend),2020-02-07,2020-02-09,La Cañada Flintridge,California,United States,B,https://www.pdga.com/tour/event/43840,John Tompkins
+845,43839,The 42nd Annual Wintertime Open Presented by Paul McBeth (Pro Weekend),2020-02-14,2020-02-16,La Cañada Flintridge,California,United States,A,https://www.pdga.com/tour/event/43839,John Tompkins
+949,43838,United States Disc Golf Championship,2020-10-07,2020-10-10,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/43838,Jonathan Poole
+942,43778,DGPT - Play It Again Sports Jonesboro Open,2020-10-01,2020-10-03,Jonesboro,Arkansas,United States,NT,https://www.pdga.com/tour/event/43778,Brad Pietz
+945,43763,The 25th Annual Texas State Disc Golf Championships Presented by Latitude 64 - GDG $5K/$10K Event,2020-10-02,2020-10-04,Tyler,Texas,United States,A,https://www.pdga.com/tour/event/43763,Steven Storrie
+939,43487,2020 Music City Open Presented by Dynamic Discs,2020-09-25,2020-09-27,Nashville,Tennessee,United States,A,https://www.pdga.com/tour/event/43487,Wil McKaskle
+910,43452,DGPT - 10th Annual Discraft Ledgestone Insurance Open,2020-08-13,2020-08-16,Eureka,Illinois,United States,NT,https://www.pdga.com/tour/event/43452,Nate Heinold
+912,43451,10th Annual Discraft Ledgestone Insurance Open,2020-08-14,2020-08-16,Eureka,Illinois,United States,A,https://www.pdga.com/tour/event/43451,Nate Heinold
+5869,43394,Maricopa Open sponsored by Infinite Discs,2020-01-25,2020-01-26,Maricopa,Arizona,United States,B,https://www.pdga.com/tour/event/43394,Sam Russ
+846,43105,Las Vegas Challenge presented by Innova Champion Discs,2020-02-20,2020-02-23,Henderson,Nevada,United States,A,https://www.pdga.com/tour/event/43105,Jeffrey Jacquart
+837,42360,DGPT Tour Championship,2019-10-18,2019-10-20,Charlotte,North Carolina,United States,NT,https://www.pdga.com/tour/event/42360,Jeff Spring
+821,40853,"DGPT - Discraft's Green Mountain Championship @ Smugglers' Notch Resort",2019-09-12,2019-09-15,Jeffersonville,Vermont,United States,NT,https://www.pdga.com/tour/event/40853,Jeff Spring
+761,40686,"DGPT - Discraft's Portland Open presented by Bevel Craft Brewing",2019-05-25,2019-05-27,Fairview,Oregon,United States,NT,https://www.pdga.com/tour/event/40686,Jeff Spring
+754,39807,DGPT - AbsoluteXtracts presents the San Francisco Open driven by Innova at Gleneagles DGC,2019-05-10,2019-05-12,San Francisco,California,United States,NT,https://www.pdga.com/tour/event/39807,Sean Jack
+801,39769,2019 Music City Open Sponsored by Dynamic Discs,2019-08-02,2019-08-04,Nashville,Tennessee,United States,A,https://www.pdga.com/tour/event/39769,Wil McKaskle
+789,39325,DGPT - 2019 Great Lakes Open presented by DISCRAFT,2019-07-05,2019-07-07,Milford,Michigan,United States,NT,https://www.pdga.com/tour/event/39325,John Minicuci
+740,39028,2019 Texas State Disc Golf Championships Presented by Discraft,2019-03-29,2019-03-31,Spring,Texas,United States,A,https://www.pdga.com/tour/event/39028,Matt Stillwagon
+824,39019,"2019 United States Women's Disc Golf Championships - presented by Spotsy Disc Golf Club and Driven by Innova Discs",2019-09-20,2019-09-22,Spotsylvania,Virginia,United States,M,https://www.pdga.com/tour/event/39019,Jeff Shattuck
+830,39018,United States Disc Golf Championship,2019-10-02,2019-10-05,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/39018,Jonathan Poole
+773,38977,Beaver State Fling presented by KEEN - National Tour,2019-06-07,2019-06-09,Estacada,Oregon,United States,NT,https://www.pdga.com/tour/event/38977,Jeff Mittl
+729,38890,DGPT - Waco Annual Charity Open presented by Dynamic Discs,2019-03-14,2019-03-17,Waco,Texas,United States,NT,https://www.pdga.com/tour/event/38890,Ryan Draper
+815,38873,DGPT - MVP Open at Maple Hill,2019-08-30,2019-09-01,Leicester,Massachusetts,United States,NT,https://www.pdga.com/tour/event/38873,Steven Dodge
+781,38853,2019 PDGA Professional Masters Disc Golf World Championships Driven By Innova,2019-06-25,2019-06-29,Jeffersonville,Vermont,United States,M,https://www.pdga.com/tour/event/38853,Jeff Spring
+811,38851,Delaware Disc Golf Challenge - National Tour,2019-08-23,2019-08-25,Newark,Delaware,United States,NT,https://www.pdga.com/tour/event/38851,Jimi McIlvain
+39710,38850,2019 PDGA Amateur Disc Golf World Championships - Powered by Prodigy,2019-07-23,2019-07-27,York,Pennsylvania,United States,M,https://www.pdga.com/tour/event/38850,Chas Ford
+765,38849,Des Moines Challenge 2019 Presented by Discraft and G&L Clothing,2019-05-25,2019-05-26,Des Moines,Iowa,United States,A,https://www.pdga.com/tour/event/38849,Matt Schlabach
+9298,38763,Shelly Sharpe Memorial presented by SpinnersontheGreen.com,2019-01-11,2019-01-13,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/38763,Keith Murray
+728,38761,DGPT - Memorial Championship Presented by Discraft,2019-02-28,2019-03-03,Scottsdale,Arizona,United States,NT,https://www.pdga.com/tour/event/38761,Keith Murray
+39460,38730,The 41st Annual Wintertime Open (AMs) Presented By Supreme Flight,2019-02-09,2019-02-10,La Cañada Flintridge,California,United States,B,https://www.pdga.com/tour/event/38730,John Tompkins
+724,38729,The 41st Annual Wintertime Open (Pros) Presented By Supreme Flight,2019-02-15,2019-02-17,La Cañada Flintridge,California,United States,A,https://www.pdga.com/tour/event/38729,John Tompkins
+798,38723,DGPT - Idlewild Open driven by Innova Discs & The Nati,2019-07-26,2019-07-28,Burlington,Kentucky,United States,NT,https://www.pdga.com/tour/event/38723,Adam Jones
+779,38718,Discraft Ledgestone Insurance Open - Pro Masters & Amateurs,2019-06-21,2019-06-23,Eureka,Illinois,United States,A,https://www.pdga.com/tour/event/38718,Nate Heinold
+780,38717,DGPT - Discraft Ledgestone Insurance Open,2019-06-21,2019-06-23,Eureka,Illinois,United States,NT,https://www.pdga.com/tour/event/38717,Nate Heinold
+806,38709,2019 PDGA Professional Disc Golf World Championships,2019-08-13,2019-08-17,Peoria,Illinois,United States,M,https://www.pdga.com/tour/event/38709,Nate Heinold
+39683,38701,2019 PDGA Junior Disc Golf World Championships presented by Dynamic Discs,2019-07-09,2019-07-13,Emporia,Kansas,United States,M,https://www.pdga.com/tour/event/38701,Doug Bjerkaas
+833,38694,The Ed Headrick Disc Golf Hall of Fame Classic presented by REC TEC Grills - National Tour Finale,2019-10-11,2019-10-13,Appling,Georgia,United States,NT,https://www.pdga.com/tour/event/38694,Zachary Shafer
+745,38682,DGPT - Jonesboro Open,2019-04-12,2019-04-14,Jonesboro,Arkansas,United States,NT,https://www.pdga.com/tour/event/38682,Bradley Pietz
+9208,38614,Maricopa Open presented by Dynamic Discs,2019-01-26,2019-01-27,Maricopa,Arizona,United States,B,https://www.pdga.com/tour/event/38614,Sam Russ
+748,38471,2019 Dynamic Discs Glass Blown Open - National Tour,2019-04-24,2019-04-27,Emporia,Kansas,United States,NT,https://www.pdga.com/tour/event/38471,Doug Bjerkaas
+793,38397,European Open,2019-07-18,2019-07-21,Nokia,,Finland,M,https://www.pdga.com/tour/event/38397,Jukka Teräs
+725,38344,Las Vegas Challenge presented by Innova Champion Discs,2019-02-21,2019-02-24,Henderson,Nevada,United States,A,https://www.pdga.com/tour/event/38344,Jeffrey Jacquart
+726,38343,Las Vegas Challenge presented by Innova Champion Discs - National Tour,2019-02-21,2019-02-24,Henderson,Nevada,United States,NT,https://www.pdga.com/tour/event/38343,Jeff Jacquart
+31642,37795,DiscGolf European Championships,1999-09-17,1999-09-19,Gstaad,,Switzerland,C,https://www.pdga.com/tour/event/37795,0
+29389,36903,European Championships,1986-07-11,1986-07-13,Essen,,Germany,C,https://www.pdga.com/tour/event/36903,0
+29321,36898,Bud Light Wintertime Open (8th),1986-02-15,1986-02-16,Pasadena,California,United States,C,https://www.pdga.com/tour/event/36898,Mark Horn
+29253,36126,Great Lakes Open,1985-05-18,1985-05-18,Royal Oak,Michigan,United States,C,https://www.pdga.com/tour/event/36126,0
+29217,36000,Great Lakes Open,1984-07-07,1984-07-08,Troy & Royal Oak,Michigan,United States,C,https://www.pdga.com/tour/event/36000,0
+709,35746,United States Disc Golf Championship,2018-10-03,2018-10-06,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/35746,Jonathan Poole
+682,35386,2018 PDGA Pro Masters Worlds Championships presented by Dynamic Discs,2018-08-14,2018-08-18,Olathe,Kansas,United States,M,https://www.pdga.com/tour/event/35386,Scott A. Reek
+713,35294,DGPT Tour Championship hosted by Prodigy,2018-10-18,2018-10-21,Jacksonville,Florida,United States,NT,https://www.pdga.com/tour/event/35294,Steven Dodge
+683,35265,European Disc Golf Championships,2018-08-15,2018-08-19,Sveti Martin na Muri,,Croatia,A,https://www.pdga.com/tour/event/35265,Dinko Šimenc
+696,35080,2018 PDGA Professional Disc Golf World Championships,2018-09-05,2018-09-09,Jeffersonville,Vermont,United States,M,https://www.pdga.com/tour/event/35080,Jeff Spring
+673,34450,Des Moines Challenge 2018 presented by Innova and G&L Clothing,2018-07-28,2018-07-29,Des Moines,Iowa,United States,A,https://www.pdga.com/tour/event/34450,Matt Schlabach
+688,34303,DGPT - MVP Open at Maple Hill,2018-08-24,2018-08-26,Leicester,Massachusetts,United States,NT,https://www.pdga.com/tour/event/34303,Steven Dodge
+609,34296,DGPT - Waco Annual Charity Open presented by Dynamic Discs,2018-03-15,2018-03-18,Waco,Texas,United States,NT,https://www.pdga.com/tour/event/34296,Ryan Draper
+670,34293,DGPT - Idlewild Open Driven by Innova Discs & The Nati,2018-07-20,2018-07-22,Burlington,Kentucky,United States,NT,https://www.pdga.com/tour/event/34293,Adam Jones
+621,34265,2018 Texas State Disc Golf Championships,2018-04-13,2018-04-15,Spring,Texas,United States,A,https://www.pdga.com/tour/event/34265,Matthew Stillwagon
+665,34230,DGPT - Great Lakes Open presented by Discraft,2018-07-06,2018-07-08,Milford,Michigan,United States,NT,https://www.pdga.com/tour/event/34230,John Minicuci
+12207,34207,Maricopa Meadows Open,2018-01-27,2018-01-28,Maricopa,Arizona,United States,B,https://www.pdga.com/tour/event/34207,Jav Kowalski
+12229,34200,Shelly Sharpe Memorial presented by SpinnersontheGreen.com,2018-01-19,2018-01-21,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/34200,Keith Murray
+607,34199,DGPT - Memorial Championship presented by Discraft,2018-02-28,2018-03-03,Scottsdale,Arizona,United States,NT,https://www.pdga.com/tour/event/34199,Keith Murray
+676,34193,The Music City Open Sponsored by Dynamic Discs,2018-08-03,2018-08-05,Nashville,Tennessee,United States,A,https://www.pdga.com/tour/event/34193,Wil McKaskle
+639,34183,DGPT - San Francisco Open presented by Innova Champion Discs,2018-05-25,2018-05-27,San Francisco,California,United States,NT,https://www.pdga.com/tour/event/34183,Sean Jack
+604,34159,40th Annual Wintertime Open - Pro presented by CalShieldHomeLoans.com,2018-02-16,2018-02-18,Altadena,California,United States,A,https://www.pdga.com/tour/event/34159,Mark Horn
+38986,34158,40th Annual Wintertime Open presented by CalShieldHomeloans.com,2018-02-10,2018-02-11,Altadena,California,United States,B,https://www.pdga.com/tour/event/34158,Mark Horn
+612,34148,DGPT - Jonesboro Open,2018-04-06,2018-04-08,Jonesboro,Arkansas,United States,NT,https://www.pdga.com/tour/event/34148,Bradley Pietz
+681,34137,DGPT - Discraft Ledgestone Insurance Open,2018-08-09,2018-08-12,Eureka,Illinois,United States,NT,https://www.pdga.com/tour/event/34137,Nate Heinold
+605,34119,Las Vegas Challenge presented by Innova Champion Discs,2018-02-22,2018-02-25,Henderson,Nevada,United States,A,https://www.pdga.com/tour/event/34119,Jeffrey Jacquart
+39251,34118,PDGA Junior World Disc Golf Championships presented by Dynamic Discs,2018-07-10,2018-07-14,Emporia,Kansas,United States,M,https://www.pdga.com/tour/event/34118,Doug Bjerkaas
+649,34075,Beaver State Fling presented by KEEN - National Tour,2018-06-08,2018-06-10,Estacada,Oregon,United States,NT,https://www.pdga.com/tour/event/34075,Jeff Mittl
+703,33927,"United States Women's Disc Golf Championships",2018-09-21,2018-09-23,Lansing,Michigan,United States,M,https://www.pdga.com/tour/event/33927,Keith Aten
+39280,33926,PDGA Amateur Disc Golf World Championships Driven by Innova,2018-07-24,2018-07-28,Charlotte,North Carolina,United States,M,https://www.pdga.com/tour/event/33926,Robert Leonard
+606,33918,Las Vegas Challenge presented by Innova Champion Discs - National Tour,2018-02-22,2018-02-25,Henderson,Nevada,United States,NT,https://www.pdga.com/tour/event/33918,Jeff Jacquart
+596,33862,DGPT Tour Championship presented by Prodigy Discs,2017-10-19,2017-10-22,Jacksonville,Florida,United States,XA,https://www.pdga.com/tour/event/33862,Steven Dodge
+700,33793,Delaware Disc Golf Challenge presented by Innova - National Tour,2018-09-14,2018-09-16,Newark,Delaware,United States,NT,https://www.pdga.com/tour/event/33793,Jimi McIlvain
+626,33792,Dynamic Discs Glass Blown Open - National Tour,2018-04-26,2018-04-28,Emporia,Kansas,United States,NT,https://www.pdga.com/tour/event/33792,Doug Bjerkaas
+711,33791,The Ed Headrick Disc Golf Hall of Fame Classic presented by REC TEC Grills - National Tour Finale,2018-10-12,2018-10-14,Appling,Georgia,United States,NT,https://www.pdga.com/tour/event/33791,Zachary Shafer
+581,32553,"Discraft's Green Mountain Championship",2017-09-13,2017-09-16,Jeffersonville,Vermont,United States,A,https://www.pdga.com/tour/event/32553,Jeff Spring
+13038,32206,Music City Open,2017-09-01,2017-09-03,Nashville,Tennessee,United States,A,https://www.pdga.com/tour/event/32206,Alan Posey
+547,31709,European Open,2017-07-20,2017-07-23,Nokia,,Finland,M,https://www.pdga.com/tour/event/31709,Jukka Teräs
+38854,31540,2017 PDGA Amateur and Junior Disc Golf World Championship,2017-07-18,2017-07-22,"Quad Cities,  IL",Iowa,United States,M,https://www.pdga.com/tour/event/31540,Chase Roberts
+13161,31385,DGPT - Idlewild Open driven by Innova & The Nati,2017-08-17,2017-08-19,Burlington,Kentucky,United States,B,https://www.pdga.com/tour/event/31385,Adam Jones
+561,31370,2017 PDGA Pro Masters World Championships presented by Innova,2017-08-15,2017-08-19,Grand Rapids,Michigan,United States,M,https://www.pdga.com/tour/event/31370,John Norkowski
+588,31364,"2017 United States Women's Disc Golf Championship Presented by Prodigy",2017-09-22,2017-09-24,Johnson City,Tennessee,United States,M,https://www.pdga.com/tour/event/31364,Tim Barr
+571,31343,DGPT - Vibram Open,2017-08-31,2017-09-03,Leicester,Massachusetts,United States,A,https://www.pdga.com/tour/event/31343,Steven Dodge
+535,31325,2017 Great Lakes Open presented by DISCRAFT,2017-06-17,2017-06-18,Troy,Michigan,United States,A,https://www.pdga.com/tour/event/31325,John Minicuci
+14852,30872,Maricopa Meadows Open presented by Latitude 64,2017-01-21,2017-01-22,Maricopa,Arizona,United States,B,https://www.pdga.com/tour/event/30872,David Feldberg
+537,30813,2017 PDGA Professional Disc Golf World Championships,2017-06-21,2017-06-25,Augusta,Georgia,United States,M,https://www.pdga.com/tour/event/30813,Zachary Shafer
+491,30783,DGPT - Memorial Championship presented by Discraft,2017-03-01,2017-03-04,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/30783,Keith Murray
+539,30718,Delaware Disc Golf Challenge sponsored by Legacy Disc,2017-06-30,2017-07-02,Newark,Delaware,United States,A,https://www.pdga.com/tour/event/30718,Jimi McIlvain
+592,30714,United States Disc Golf Championship,2017-10-04,2017-10-07,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/30714,Jonathan Poole
+531,30708,Beaver State Fling Presented by KEEN - National Tour,2017-06-09,2017-06-11,Estacada,Oregon,United States,NT,https://www.pdga.com/tour/event/30708,Jeff Mittl
+14424,30695,Jonesboro Open - Disc Golf Pro Tour,2017-04-13,2017-04-16,Jonesboro,Arkansas,United States,B,https://www.pdga.com/tour/event/30695,Bradley Pietz
+594,30675,Ed Headrick Disc Golf Hall of Fame Classic presented by ProActive Sports Disc Golf - National Tour Finale,2017-10-13,2017-10-15,Appling,Georgia,United States,NT,https://www.pdga.com/tour/event/30675,Zachary Shafer
+551,30665,The Des Moines Challenge presented by Discraft and G&L Clothing,2017-07-29,2017-07-30,Des Moines,Iowa,United States,A,https://www.pdga.com/tour/event/30665,Jay Greenwood
+492,30581,DGPT - Waco Annual Charity Open presented by Dynamic Discs,2017-03-16,2017-03-19,Waco,Texas,United States,A,https://www.pdga.com/tour/event/30581,Ryan Draper
+554,30560,Ledgestone Insurance Open presented by Discraft,2017-08-03,2017-08-06,Eureka,Illinois,United States,A,https://www.pdga.com/tour/event/30560,Nate Heinold
+489,30546,"Gentlemen's Club Challenge presented by Innova Champion Discs",2017-02-23,2017-02-26,Henderson,Nevada,United States,A,https://www.pdga.com/tour/event/30546,Jeffrey Jacquart
+498,30517,"22nd Annual Texas States Disc Golf Championship Presented By Cory's Bicycle Shop",2017-04-07,2017-04-09,Baytown,Texas,United States,A,https://www.pdga.com/tour/event/30517,Jeremy Richards
+14753,30512,39th Annual Wintertime Open - Pro,2017-02-18,2017-02-19,Altadena,California,United States,B,https://www.pdga.com/tour/event/30512,Mark Horn
+38705,30511,39th Annual Wintertime Open - Am,2017-02-11,2017-02-12,Altadena,California,United States,B,https://www.pdga.com/tour/event/30511,Mark Horn
+510,30420,Dynamic Discs Glass Blown Open - National Tour,2017-04-27,2017-04-29,Emporia,Kansas,United States,NT,https://www.pdga.com/tour/event/30420,Doug Bjerkaas
+490,30419,"Gentlemen's Club Challenge presented by Innova Champion Discs",2017-02-23,2017-02-26,Henderson,Nevada,United States,NT,https://www.pdga.com/tour/event/30419,Jeff Jacquart
+15190,30340,Shelly Sharpe Memorial presented by SpinnersontheGreen.com,2016-10-21,2016-10-23,Scottsdale,Arizona,United States,B,https://www.pdga.com/tour/event/30340,Keith Murray
+30144,28768,Can Am #5 - Great Lakes Open,1991-06-23,1991-06-24,Troy,Michigan,United States,C,https://www.pdga.com/tour/event/28768,0
+42124,27071,11th Annual Bud Light Wintertime Open,1989-02-18,1989-02-19,Pasadena,California,United States,A,https://www.pdga.com/tour/event/27071,Mark Horn
+15694,26800,Waco Annual Charity Open,2016-08-20,2016-08-21,Waco,Texas,United States,B,https://www.pdga.com/tour/event/26800,Channon Quillen
+15595,26767,Music City Open,2016-09-03,2016-09-04,Nashville,Tennessee,United States,B,https://www.pdga.com/tour/event/26767,Michael McDaniel
+433,26737,European Open - Disc Golf World Tour #3,2016-06-02,2016-06-04,Nokia,,Finland,A,https://www.pdga.com/tour/event/26737,Jussi Meresmaa
+474,26568,"Pro Tour Championship @ Smugglers' Notch",2016-09-17,2016-09-18,"Smugglers' Notch",Vermont,United States,XA,https://www.pdga.com/tour/event/26568,Steven Dodge #22042
+37281,26549,2000 PDGA Amateur Disc Golf World Championships,2000-08-01,2000-08-05,Ann Arbor,Michigan,United States,M,https://www.pdga.com/tour/event/26549,Steve Peck
+42117,25290,1985 PDGA Masters Disc Golf World Championships,1985-07-26,1985-07-28,Tulsa,Oklahoma,United States,M,https://www.pdga.com/tour/event/25290,Rick Neil
+42115,25289,1984 PDGA Masters Disc Golf World Championships,1984-07-26,1984-07-29,Rochester,New York,United States,M,https://www.pdga.com/tour/event/25289,Jim Palmeri
+437,25200,2016 Great Lakes Open presented by DISCRAFT,2016-06-18,2016-06-19,Shelby Township,Michigan,United States,A,https://www.pdga.com/tour/event/25200,John Minicuci
+472,25011,Discraft Presents The Green Mountain Championship @ Smugglers’ Notch Resort,2016-09-15,2016-09-17,"Smugglers' Notch",Vermont,United States,A,https://www.pdga.com/tour/event/25011,Jeff Spring
+411,24560,Texas States Disc Golf Championships,2016-04-15,2016-04-17,Waco,Texas,United States,A,https://www.pdga.com/tour/event/24560,Vinnie Miller
+444,24475,Delaware Disc Golf Challenge Sponsored by Dynamic Discs,2016-07-01,2016-07-03,Newark,Delaware,United States,A,https://www.pdga.com/tour/event/24475,Jimi McIlvain
+17060,24426,38th Annual Wintertime Open - Pro,2016-02-20,2016-02-21,Pasadena,California,United States,B,https://www.pdga.com/tour/event/24426,Mark Horn
+38431,24422,38th Annual Wintertime Open - Amateur,2016-02-13,2016-02-14,Pasadena,California,United States,B,https://www.pdga.com/tour/event/24422,Mark Horn
+17170,24374,Maricopa Meadows Open presented by Latitude 64 Golf Discs,2016-01-16,2016-01-17,Maricopa,Arizona,United States,B,https://www.pdga.com/tour/event/24374,David Feldberg
+477,24343,United States Womens Disc Golf Championship,2016-09-23,2016-09-25,Sabattus,Maine,United States,M,https://www.pdga.com/tour/event/24343,Jason Rubito
+457,24339,2016 PDGA Professional Disc Golf World Championships presented by Dynamic Discs,2016-08-06,2016-08-13,Emporia,Kansas,United States,M,https://www.pdga.com/tour/event/24339,Doug Bjerkaas
+38563,24338,2016 PDGA Amateur & Junior Disc Golf World Championships presented by Innova,2016-07-12,2016-07-16,Madison,Wisconsin,United States,M,https://www.pdga.com/tour/event/24338,Mike Batka
+441,24333,The Vibram Open,2016-06-23,2016-06-26,Leicester,Massachusetts,United States,NT,https://www.pdga.com/tour/event/24333,Steven Dodge
+479,22317,United States Disc Golf Championship - Disc Golf World Tour Final,2016-10-05,2016-10-08,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/22317,Jonathan Poole
+461,22313,Ledgestone Insurance Open presented by Discraft,2016-08-18,2016-08-21,Peoria,Illinois,United States,A,https://www.pdga.com/tour/event/22313,Nate Heinold
+393,22300,"Gentlemen's Club Challenge presented by Innova Champion Discs",2016-02-25,2016-02-28,Henderson,Nevada,United States,A,https://www.pdga.com/tour/event/22300,Jeff Jacquart
+432,22267,Des Moines Challenge presented by G&L Clothing,2016-05-28,2016-05-29,Des Moines,Iowa,United States,A,https://www.pdga.com/tour/event/22267,Jay Greenwood
+394,22242,28th Memorial Championship presented by Discraft,2016-03-02,2016-03-05,"Scottsdale,  Mesa & Fountain Hills",Arizona,United States,NT,https://www.pdga.com/tour/event/22242,Keith Murray
+434,22229,Beaver State Fling Presented by KEEN,2016-06-10,2016-06-12,Estacada,Oregon,United States,NT,https://www.pdga.com/tour/event/22229,Jeff Mittl
+417,22228,Dynamic Discs Glass Blown Open,2016-04-28,2016-04-30,Emporia,Kansas,United States,NT,https://www.pdga.com/tour/event/22228,Doug Bjerkaas
+17442,22034,30th Shelly Sharpe Memorial,2015-10-23,2015-10-25,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/22034,Keith Murray
+17713,20629,"Discraft Presents The Green Mountain Championship @ Smugglers' Notch Resort",2015-09-18,2015-09-20,"Smugglers' Notch",Vermont,United States,A,https://www.pdga.com/tour/event/20629,Jeffrey Spring
+342,20176,Discraft Great Lakes Open,2015-05-29,2015-05-31,Milford,Michigan,United States,A,https://www.pdga.com/tour/event/20176,John Minicuci
+17877,20163,Music City Open 2015,2015-08-29,2015-08-30,Nashville,Tennessee,United States,B,https://www.pdga.com/tour/event/20163,Michael McDaniel
+368,19789,Waco Annual Charity Open,2015-08-22,2015-08-23,Waco,Texas,United States,A,https://www.pdga.com/tour/event/19789,Channon Quillen
+316,19726,Texas State Disc Golf Championship - 20th Annual,2015-03-28,2015-03-29,Houston,Texas,United States,A,https://www.pdga.com/tour/event/19726,Larry Kruse
+19171,19715,37th Annual Wintertime Open - PRO,2015-02-14,2015-02-15,Pasadena,California,United States,B,https://www.pdga.com/tour/event/19715,Mark Horn
+38251,19713,37th Annual Wintertime Open - AM,2015-02-07,2015-02-08,Pasadena,California,United States,B,https://www.pdga.com/tour/event/19713,Mark Horn
+38256,19693,27th Memorial Championship presented by Discraft,2015-02-24,2015-02-27,Scottsdale & Fountain Hills,Arizona,United States,A,https://www.pdga.com/tour/event/19693,Keith Murray
+361,19605,Delaware Disc Golf Challenge - Pro,2015-07-24,2015-07-26,Newark,Delaware,United States,A,https://www.pdga.com/tour/event/19605,Jimi McIlvain
+386,19584,United States Disc Golf Championship - Open Flight,2015-10-07,2015-10-10,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/19584,Jonathan Poole
+382,19583,"United States Women's Disc Golf Championships",2015-09-25,2015-09-27,Mid-Ohio,Ohio,United States,M,https://www.pdga.com/tour/event/19583,Kenneth Rollins
+362,19581,2015 PDGA Professional Disc Golf World Championships,2015-08-04,2015-08-08,Pittsburgh,Pennsylvania,United States,M,https://www.pdga.com/tour/event/19581,J. Gary Dropcho
+38348,19580,2015 PDGA Amateur Disc Golf World Championships,2015-07-21,2015-07-25,Kalamazoo,Michigan,United States,M,https://www.pdga.com/tour/event/19580,Larry LaBond
+311,19568,"Gentlemen's Club Challenge Presented by Innova Champion Discs - Pro Weekend",2015-02-20,2015-02-22,Las Vegas,Nevada,United States,A,https://www.pdga.com/tour/event/19568,Jeff Jacquart
+346,19566,Beaver State Fling - Pro,2015-06-12,2015-06-14,Estacada,Oregon,United States,NT,https://www.pdga.com/tour/event/19566,Jeff Mittl
+378,19563,Disc Golf Hall of Fame Classic presented by MVP Disc Sports - NT Finale - Innova GTC Series 1,2015-09-11,2015-09-13,"IDGC,  Appling",Georgia,United States,NT,https://www.pdga.com/tour/event/19563,Jason Allind
+341,19556,Des Moines Challenge Presented by G&L Clothing,2015-05-23,2015-05-24,Des Moines,Iowa,United States,A,https://www.pdga.com/tour/event/19556,Jay Greenwood
+19215,19544,Maricopa Meadows Open,2015-01-17,2015-01-17,Maricopa,Arizona,United States,B,https://www.pdga.com/tour/event/19544,David Feldberg
+332,19536,Dynamic Discs Glass Blown Open sponsored by Latitude 64,2015-04-30,2015-05-02,Emporia,Kansas,United States,NT,https://www.pdga.com/tour/event/19536,Jeremy Rusco
+367,19535,Ledgestone Insurance Open presented by Discraft,2015-08-21,2015-08-23,Peoria,Illinois,United States,NT,https://www.pdga.com/tour/event/19535,Nate Heinold
+350,19532,Vibram presents the Maple Hill Open,2015-06-25,2015-06-28,Leicester,Massachusetts,United States,NT,https://www.pdga.com/tour/event/19532,Steven Dodge
+312,19531,27th Memorial Championship presented by Discraft,2015-02-24,2015-02-28,Scottsdale & Fountain Hills,Arizona,United States,NT,https://www.pdga.com/tour/event/19531,Keith Murray
+359,19491,European Open,2015-07-16,2015-07-19,Nokia,,Finland,M,https://www.pdga.com/tour/event/19491,Jukka Teräs
+19434,18972,2014 AZ Disc Golf Championships presented by the Shelly Sharpe Memorial,2014-10-24,2014-10-26,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/18972,Keith Murray
+27628,18732,12th Annual Bud Light Wintertime Open,1990-02-17,1990-02-18,Pasadena,California,United States,A,https://www.pdga.com/tour/event/18732,0
+30058,18730,9th Annual Great Lakes Open,1990-06-23,1990-06-24,Troy,Michigan,United States,C,https://www.pdga.com/tour/event/18730,0
+42135,18685,Shelly Sharpe Memorial,1989-10-07,1989-10-08,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/18685,0
+29887,18625,Great Lakes Open,1989-06-24,1989-06-25,Troy,Michigan,United States,C,https://www.pdga.com/tour/event/18625,0
+29894,18548,8th Annual Great Lakes Open,1989-06-24,1989-06-24,Troy,Michigan,United States,C,https://www.pdga.com/tour/event/18548,0
+29695,18507,Texas State Disc Golf Championships,1988-06-11,1988-06-12,Carrollton,Texas,United States,C,https://www.pdga.com/tour/event/18507,0
+29769,18495,Shelly Sharpe Memorial,1988-10-01,1988-10-02,Scottsdale,Arizona,United States,C,https://www.pdga.com/tour/event/18495,0
+29624,18368,10th Annual Bud Light Wintertime Open,1988-02-13,1988-02-14,Pasadena,California,United States,C,https://www.pdga.com/tour/event/18368,0
+29711,18365,7th Annual Great Lakes Open,1988-06-25,1988-06-26,Troy,Michigan,United States,C,https://www.pdga.com/tour/event/18365,0
+29520,18322,Texas State Disc Golf Championships,1987-06-13,1987-06-14,Carrollton,Texas,United States,C,https://www.pdga.com/tour/event/18322,0
+29585,18313,Shelly Sharpe Memorial,1987-10-03,1987-10-04,Scottsdale,Arizona,United States,C,https://www.pdga.com/tour/event/18313,0
+29481,18312,Shelly Sharpe Memorial Disc Golf Classic,1987-04-25,1987-04-26,Scottsdale,Arizona,United States,C,https://www.pdga.com/tour/event/18312,0
+29459,18207,1987 Bud Light Wintertime Open,1987-02-13,1987-02-14,Pasadena,California,United States,C,https://www.pdga.com/tour/event/18207,0
+29528,18199,7th Annual Great Lakes Open,1987-06-26,1987-06-27,Troy,Michigan,United States,C,https://www.pdga.com/tour/event/18199,0
+29380,18137,Great Lakes Open Day 2,1986-06-15,1986-06-15,Royal Oak,Michigan,United States,C,https://www.pdga.com/tour/event/18137,0
+29377,18136,Great Lakes Open Day 1,1986-06-14,1986-06-14,Troy,Michigan,United States,C,https://www.pdga.com/tour/event/18136,0
+29438,18115,1986 Texas State Flying Disc Championships,1986-10-03,1986-10-05,Austin,Texas,United States,C,https://www.pdga.com/tour/event/18115,0
+19851,17884,Waco Annual Charity Open,2014-08-23,2014-08-24,Waco,Texas,United States,B,https://www.pdga.com/tour/event/17884,Channon Quillen
+266,17285,Discraft Great Lakes Open,2014-05-30,2014-06-01,Milford / Dexter,Michigan,United States,A,https://www.pdga.com/tour/event/17285,John Minicuci
+20636,17223,Beaver State Fling - Lite,2014-04-26,2014-04-27,Estacada,Oregon,United States,B,https://www.pdga.com/tour/event/17223,Jeff Hagerty
+294,17103,Ledgestone Insurance Open presented by ABC Discs,2014-09-12,2014-09-14,"Peoria,  Illinois",Illinois,United States,A,https://www.pdga.com/tour/event/17103,Nate Heinold
+265,16975,Des Moines Challenge Presented by G&L Clothing,2014-05-24,2014-05-25,Des Moines,Iowa,United States,A,https://www.pdga.com/tour/event/16975,Shane Stewart
+19983,16831,Prodigy Disc presents The 2014 Music City Open,2014-07-26,2014-07-27,Nashville,Tennessee,United States,B,https://www.pdga.com/tour/event/16831,Michael McDaniel
+38130,16575,Texas State Disc Golf Championships,2014-03-07,2014-03-09,Round Rock,Texas,United States,A,https://www.pdga.com/tour/event/16575,Vinnie Miller
+275,16571,Delaware Disc Golf Challenge,2014-06-28,2014-06-29,Newark,Delaware,United States,A,https://www.pdga.com/tour/event/16571,Jimi McIlvain
+259,16502,Dynamic Discs Glass Blown Open Sponsored by Latitude 64,2014-05-02,2014-05-04,Emporia,Kansas,United States,A,https://www.pdga.com/tour/event/16502,Jeremy Rusco
+21001,16461,Inaugural Maricopa Meadows Open,2014-01-18,2014-01-18,Maricopa,Arizona,United States,C,https://www.pdga.com/tour/event/16461,David Feldberg
+20908,16433,36th Annual wintertime Open,2014-02-15,2014-02-16,Pasadena,California,United States,B,https://www.pdga.com/tour/event/16433,Mark Horn
+38120,16432,36th Annual Wintertime Open,2014-02-08,2014-02-09,Pasadena,California,United States,B,https://www.pdga.com/tour/event/16432,Mark Horn
+243,16404,"Gentlemen's Club Challenge Innova Champion Discs Pro Weekend",2014-02-21,2014-02-23,Las Vegas,Nevada,United States,A,https://www.pdga.com/tour/event/16404,Jeffrey Jacquart
+300,16392,United States Disc Golf Championship - Open Flight,2014-10-01,2014-10-04,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/16392,Jonathan Poole
+297,16391,United States Womens Disc Golf Championships,2014-09-19,2014-09-21,Appling,Georgia,United States,M,https://www.pdga.com/tour/event/16391,Oldman Wallis
+285,16386,2014 PDGA Professional Disc Golf World Championships,2014-08-12,2014-08-16,Portland,Oregon,United States,M,https://www.pdga.com/tour/event/16386,Todd Andrews
+38189,16384,2014 PDGA Amateur & Junior Disc Golf World Championships,2014-07-22,2014-07-26,St. Paul,Minnesota,United States,M,https://www.pdga.com/tour/event/16384,Mike Snelson
+277,16382,Vibram presents the Maple Hill Open,2014-07-03,2014-07-06,Leicester,Massachusetts,United States,NT,https://www.pdga.com/tour/event/16382,Steven Dodge
+246,16374,Texas States Championships,2014-03-21,2014-03-23,Round Rock,Texas,United States,NT,https://www.pdga.com/tour/event/16374,Vinnie Miller
+244,16373,The 26th Annual Memorial Championship presented by Discraft,2014-02-26,2014-03-01,Fountain Hills & Scottsdale,Arizona,United States,NT,https://www.pdga.com/tour/event/16373,Dan Ginnelly
+19703,16348,"Prodigy Presents The Green Mountain Championship @ Smugglers' Notch Resort",2014-09-19,2014-09-21,"Smugglers' Notch",Vermont,United States,A,https://www.pdga.com/tour/event/16348,Jeff Spring
+21219,16119,The 28th Shelly Sharpe Memorial presented by Spinners on the Green,2013-10-18,2013-10-20,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/16119,Keith Murray
+21575,15736,Waco Annual Charity Open,2013-08-24,2013-08-25,Waco,Texas,United States,B,https://www.pdga.com/tour/event/15736,Channon Quillen
+226,15194,Ledgestone Insurance Open presented by ABC Discs,2013-09-06,2013-09-07,Morton & Pekin,Illinois,United States,A,https://www.pdga.com/tour/event/15194,Nate Heinold
+38022,14682,Texas State Disc Golf Championships 2013,2013-03-16,2013-03-17,Austin,Texas,United States,A,https://www.pdga.com/tour/event/14682,Vinnie Miller
+188,14600,Dynamic Discs Glass Blown Open sponsored by Latitude 64,2013-04-12,2013-04-14,Emporia,Kansas,United States,A,https://www.pdga.com/tour/event/14600,Jeremy Rusco
+22491,14545,35th Annual Wintertime Open - Pro,2013-02-16,2013-02-17,Pasadena,California,United States,B,https://www.pdga.com/tour/event/14545,Mark Horn
+197,14536,Des Moines Challenge presented by G&L Clothing,2013-05-25,2013-05-26,Des Moines,Iowa,United States,A,https://www.pdga.com/tour/event/14536,Joe Wiley
+21525,14494,Green Mountain Championship @ Smugglers Notch,2013-08-31,2013-09-01,Jeffersonville,Vermont,United States,B,https://www.pdga.com/tour/event/14494,Jeffrey Spring
+38012,14481,35th Annual Wintertime Open - AM,2013-02-09,2013-02-10,Pasadena,California,United States,B,https://www.pdga.com/tour/event/14481,Mark Horn
+180,14438,"Gentlemen's Club Challenge Presented by DiscGolfValues.com - Pro Weekend",2013-02-22,2013-02-24,Las Vegas,Nevada,United States,A,https://www.pdga.com/tour/event/14438,Jeffrey Jacquart
+38014,14411,The 25th Annual Memorial Championship presented by Discraft,2013-02-27,2013-03-01,Fountain Hills & Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/14411,Keith Murray
+230,14382,Delaware Disc Golf Challenge,2013-09-14,2013-09-15,Newark/ Wilmington,Delaware,United States,A,https://www.pdga.com/tour/event/14382,Jimi McIlvain
+212,14376,Music City Open - Pro,2013-07-13,2013-07-14,Nashville,Tennessee,United States,A,https://www.pdga.com/tour/event/14376,Andy Garrett
+223,14325,Vibram Open,2013-08-22,2013-08-25,Leicester,Massachusetts,United States,NT,https://www.pdga.com/tour/event/14325,Steven Dodge
+205,14324,Beaver State Fling,2013-06-28,2013-06-30,Estacada,Oregon,United States,NT,https://www.pdga.com/tour/event/14324,Jeff Mittl
+198,14322,Discraft Great Lakes Open,2013-05-31,2013-06-02,Ann Arbor,Michigan,United States,NT,https://www.pdga.com/tour/event/14322,John Minicuci
+191,14321,Disc Golf Hall of Fame Classic presented by Prodigy Disc,2013-05-03,2013-05-05,Appling,Georgia,United States,NT,https://www.pdga.com/tour/event/14321,Jason Allind
+182,14319,Texas States Championships,2013-03-15,2013-03-17,Austin,Texas,United States,NT,https://www.pdga.com/tour/event/14319,Vinnie Miller
+181,14318,The 25th Annual Memorial Championship presented by Discraft,2013-02-27,2013-03-02,Fountain Hills & Scottsdale,Arizona,United States,NT,https://www.pdga.com/tour/event/14318,Dan Ginnelly
+214,14316,European Open,2013-07-18,2013-07-21,Nokia,,Finland,M,https://www.pdga.com/tour/event/14316,Jussi Meresmaa
+235,14315,United States Disc Golf Championship - Open Flight,2013-10-02,2013-10-05,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/14315,Jonathan Poole
+219,14311,2013 PDGA Professional Disc Golf World Championships,2013-08-03,2013-08-10,Crown Point,Indiana,United States,M,https://www.pdga.com/tour/event/14311,Brian Cummings
+38074,14310,2013 PDGA Amateur & Junior Disc Golf World Championships,2013-07-06,2013-07-13,Emporia,Kansas,United States,M,https://www.pdga.com/tour/event/14310,Jeremy Rusco
+232,14306,United States Womens Disc Golf Championships,2013-09-20,2013-09-22,Portland,Oregon,United States,M,https://www.pdga.com/tour/event/14306,Rebecca Duffy
+22804,14070,27th Annual Shelly Sharpe Memorial presented by Spinners on the Green,2012-10-12,2012-10-14,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/14070,Keith Murray
+23447,13304,Waco Annual Charity Open,2012-06-02,2012-06-03,Waco,Texas,United States,B,https://www.pdga.com/tour/event/13304,Channon Quillen
+23384,13275,Music City Open,2012-06-09,2012-06-10,Nashville,Tennessee,United States,B,https://www.pdga.com/tour/event/13275,Hunter Hakanson
+166,12877,Ledgestone Insurance Championships Super Tour,2012-09-14,2012-09-15,Pekin/Morton,Illinois,United States,A,https://www.pdga.com/tour/event/12877,Nate Heinold
+160,12639,Discraft Great Lakes Open - Pros,2012-08-24,2012-08-26,Ann Arbour,Michigan,United States,A,https://www.pdga.com/tour/event/12639,Jeremy Rusco
+128,12636,Dynamic Discs Glass Blown Open sponsored by Discraft,2012-04-13,2012-04-15,Emporia,Kansas,United States,A,https://www.pdga.com/tour/event/12636,Jeremy Rusco
+148,12622,Delaware Disc Golf Challenge,2012-06-30,2012-07-01,Newark/Wilmington,Delaware,United States,A,https://www.pdga.com/tour/event/12622,Jimi McIlvain
+122,12591,"Gentlemen's Club Challenge Presented by DiscGolfValues.com - Pro",2012-02-24,2012-02-26,Las Vegas,Nevada,United States,A,https://www.pdga.com/tour/event/12591,Jeffrey Jacquart
+125,12563,17th Texas State Disc Golf Championships,2012-03-17,2012-03-18,Houston (Tom Bass Park),Texas,United States,A,https://www.pdga.com/tour/event/12563,Dave Nez Nesbitt
+23901,12562,34th annual Wintertime Open - Pro,2012-02-18,2012-02-19,Pasadena,California,United States,B,https://www.pdga.com/tour/event/12562,Mark Horn
+37917,12555,34th Annual Wintertime Open - AM,2012-02-11,2012-02-12,Pasadena,California,United States,B,https://www.pdga.com/tour/event/12555,Mark Horn
+172,12537,United States Disc Golf Championship - Open Flight,2012-10-03,2012-10-06,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/12537,Jonathan Poole
+170,12536,"United States Women's Disc Golf Championships presented by Fade Gear",2012-09-21,2012-09-23,Huntsville,Alabama,United States,M,https://www.pdga.com/tour/event/12536,Chris Jaskolka
+159,12534,Vibram Open,2012-08-16,2012-08-19,Leicester,Massachusetts,United States,NT,https://www.pdga.com/tour/event/12534,Steven Dodge
+144,12531,Beaver State Fling,2012-06-15,2012-06-17,Estacada,Oregon,United States,NT,https://www.pdga.com/tour/event/12531,Jeff Mittl
+123,12488,The Memorial Championship presented by Discraft,2012-02-29,2012-03-03,Scottsdale,Arizona,United States,NT,https://www.pdga.com/tour/event/12488,Dan Ginnelly
+37920,12487,The Memorial Championship presented by Discraft,2012-02-29,2012-03-02,Fountain Hills and Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/12487,Keith Murray
+24108,12294,26th Annual Shelly Sharpe Memorial presented by Spinners on the Green,2011-10-08,2011-10-09,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/12294,Keith Murray
+24449,12174,30th Annual Discraft Great Lakes Open,2011-08-06,2011-08-07,Dexter,Michigan,United States,B,https://www.pdga.com/tour/event/12174,Jeff Lewis
+37861,11728,Texas State Disc Golf Championships - Ams,2011-04-02,2011-04-03,Hitchcock,Texas,United States,A,https://www.pdga.com/tour/event/11728,Jake Walsdorf
+24691,11274,Waco Annual Charity Open,2011-06-04,2011-06-05,Waco,Texas,United States,B,https://www.pdga.com/tour/event/11274,Channon Quillen
+88,11249,Delaware Disc Golf Challenge,2011-06-25,2011-06-26,Newark/Wilmington,Delaware,United States,A,https://www.pdga.com/tour/event/11249,Jimi McIlvain
+24855,11148,Music City Open,2011-05-07,2011-05-08,Nashville,Tennessee,United States,B,https://www.pdga.com/tour/event/11148,Hunter Hakanson
+37849,11115,The Memorial Championship presented by Discraft,2011-03-02,2011-03-04,Fountain Hills and Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/11115,Keith Murray
+60,11110,"Gentlemen's Club Challenge Presented by DiscGolfValues.com Pro Weekend",2011-02-25,2011-02-27,Las Vegas,Nevada,United States,A,https://www.pdga.com/tour/event/11110,Jeff Jacquart
+37847,11100,33rd Annual Wintertime Open,2011-02-12,2011-02-13,Pasadena,California,United States,B,https://www.pdga.com/tour/event/11100,Mark Horn
+25107,11099,33rd Annual Wintertime Open,2011-02-19,2011-02-20,Pasadena,California,United States,B,https://www.pdga.com/tour/event/11099,Mark Horn
+68,11070,Dynamic Discs Glass Blown Open,2011-04-16,2011-04-17,Emporia,Kansas,United States,A,https://www.pdga.com/tour/event/11070,Jeremy Rusco
+96,11052,European Open,2011-07-21,2011-07-24,Nokia,,Finland,M,https://www.pdga.com/tour/event/11052,Janne Kotka
+105,11030,Vibram Open at Maple Hill,2011-09-02,2011-09-04,Leicester,Massachusetts,United States,NT,https://www.pdga.com/tour/event/11030,Steven Dodge
+87,11027,Beaver State Fling,2011-06-24,2011-06-26,Estacada,Oregon,United States,NT,https://www.pdga.com/tour/event/11027,Jeff Mittl
+64,11023,Texas State Disc Golf Championships,2011-04-02,2011-04-03,Hitchcock,Texas,United States,NT,https://www.pdga.com/tour/event/11023,Jake Walsdorf
+61,11022,The Memorial Championship presented by Discraft,2011-03-02,2011-03-05,Scottsdale,Arizona,United States,NT,https://www.pdga.com/tour/event/11022,Dan Ginnelly
+71,11021,Disc Golf Hall of Fame Classic,2011-04-30,2011-05-01,Appling,Georgia,United States,A,https://www.pdga.com/tour/event/11021,Jason Allind
+25263,10879,25th Annual Shelly Sharpe Memorial Presented by Sierra Nevada Brewing Co.,2010-10-16,2010-10-17,Scottsdale,Arizona,United States,B,https://www.pdga.com/tour/event/10879,Keith Murray
+108,10871,"United States Women's Disc Golf Championships",2011-09-16,2011-09-18,Round Rock,Texas,United States,M,https://www.pdga.com/tour/event/10871,Edman Coffey
+150,10864,2012 PDGA Professional Disc Golf World Championships,2012-07-14,2012-07-21,Charlotte,North Carolina,United States,M,https://www.pdga.com/tour/event/10864,Bill Jacobson
+37979,10863,2012 PDGA Amateur Disc Golf World Championships,2012-07-14,2012-07-21,Charlotte,North Carolina,United States,M,https://www.pdga.com/tour/event/10863,Kirk Yoo
+98,10861,2011 PDGA Professional Disc Golf World Championships,2011-08-09,2011-08-13,Santa Cruz,California,United States,M,https://www.pdga.com/tour/event/10861,Russ Jacobson
+37893,10860,2011 PDGA Amateur Disc Golf World Championships,2011-07-26,2011-07-30,Rochester,New York,United States,M,https://www.pdga.com/tour/event/10860,Anthony Inzana
+1587,10321,Music City Open,2010-07-10,2010-07-11,Nashville,Tennessee,United States,B,https://www.pdga.com/tour/event/10321,Hunter Hakanson
+1462,10039,Waco Charity Open,2010-06-05,2010-06-06,Waco,Texas,United States,B,https://www.pdga.com/tour/event/10039,Channon Quillen
+1116,9784,32nd Wintertime Open,2010-02-13,2010-02-14,Pasadena,California,United States,B,https://www.pdga.com/tour/event/9784,Mark Horn
+37774,9783,32nd Wintertime Open,2010-02-06,2010-02-07,Pasadena,California,United States,B,https://www.pdga.com/tour/event/9783,Mark Horn
+1695,9766,Discraft Great Lakes Open,2010-08-07,2010-08-08,Dexter,Michigan,United States,B,https://www.pdga.com/tour/event/9766,Jeff Lewis
+27,9758,The Delaware Disc Golf Challenge,2010-06-19,2010-06-20,Newark/Wilmington,Delaware,United States,A,https://www.pdga.com/tour/event/9758,Jimi McIlvain
+1,9723,"Gentlemen's Club Challenge - Pro Weekend",2010-02-26,2010-02-28,Las Vegas,Nevada,United States,A,https://www.pdga.com/tour/event/9723,Jeff Jacquart
+8,9699,Dynamic Discs Glass Blown Open - Open/Adv,2010-04-17,2010-04-18,Emporia,Kansas,United States,A,https://www.pdga.com/tour/event/9699,Jeremy Rusco
+5,9698,Texas State Disc Golf Championships,2010-03-27,2010-03-28,Houston,Texas,United States,A,https://www.pdga.com/tour/event/9698,Chuck DP Discer Conaway
+54,9685,United States Disc Golf Championship,2010-10-06,2010-10-09,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/9685,Jonathan Poole
+51,9684,"United States Women's Disc Golf Championships",2010-09-24,2010-09-26,Jacksonville,North Carolina,United States,M,https://www.pdga.com/tour/event/9684,Scott Knapp
+41,9649,Vibram Open at Maple Hill,2010-08-13,2010-08-15,Leicester,Massachusetts,United States,NT,https://www.pdga.com/tour/event/9649,Steven Dodge
+19,9645,Beaver State Fling,2010-05-28,2010-05-30,Estacada,Oregon,United States,NT,https://www.pdga.com/tour/event/9645,Jeff Mittl
+2,9642,The Memorial Championship presented by Discraft,2010-03-03,2010-03-06,Scottsdale,Arizona,United States,NT,https://www.pdga.com/tour/event/9642,Dan Ginnelly
+36719,9566,24th Shelly Sharpe Memorial presented by Sierra Nevada,2009-10-17,2009-10-18,Scottsdale,Arizona,United States,B,https://www.pdga.com/tour/event/9566,Keith Murray
+38,9551,2010 PDGA Professional Disc Golf World Championships,2010-07-27,2010-07-31,Crown Point,Indiana,United States,M,https://www.pdga.com/tour/event/9551,Brian Cummings
+37815,9550,2010 PDGA Amateur Disc Golf World Championships,2010-06-29,2010-07-03,Marion,Ohio,United States,M,https://www.pdga.com/tour/event/9550,Kenneth Rollins
+28316,8899,Discraft Great Lakes Open - Pro Only,2009-06-13,2009-06-14,Dexter,Michigan,United States,A,https://www.pdga.com/tour/event/8899,Jeff Lewis
+28311,8592,Disc Golf Hall of Fame Classic,2009-05-30,2009-05-31,Appling,Georgia,United States,A,https://www.pdga.com/tour/event/8592,Jason Allind
+28297,8507,7th Glass Blown Open (Pro/Adv),2009-04-18,2009-04-19,Emporia,Kansas,United States,A,https://www.pdga.com/tour/event/8507,Jeremy Rusco
+28296,8493,Texas State Disc Golf Championships,2009-04-04,2009-04-05,Houston,Texas,United States,A,https://www.pdga.com/tour/event/8493,Chuck DP Discer Conaway
+35933,8484,31st Wintertime Open,2009-02-14,2009-02-15,Pasadena,California,United States,B,https://www.pdga.com/tour/event/8484,Mark Horn
+37715,8480,31st Wintertime Open,2009-02-07,2009-02-08,Pasadena,California,United States,B,https://www.pdga.com/tour/event/8480,Mark Horn
+28289,8453,"Gentlemen's Club Challenge X",2009-02-27,2009-03-01,Las Vegas,Nevada,United States,A,https://www.pdga.com/tour/event/8453,Jeff Jacquart
+37716,8407,The Memorial presented by Discraft,2009-03-05,2009-03-07,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/8407,Dan Ginnelly
+28346,8403,United States Disc Golf Championship,2009-10-07,2009-10-10,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/8403,Jonathan Poole
+28341,8401,"United States Women's Disc Golf Championships",2009-09-18,2009-09-20,Quad City,Iowa,United States,M,https://www.pdga.com/tour/event/8401,John Resch
+28333,8400,European Open,2009-08-27,2009-08-30,Tampere,,Finland,M,https://www.pdga.com/tour/event/8400,Jussi Meresmaa
+28330,8397,Vibram Open at Maple Hill,2009-08-14,2009-08-16,Leicester,Massachusetts,United States,NT,https://www.pdga.com/tour/event/8397,Steven Dodge
+28326,8396,First Class Challenge,2009-07-17,2009-07-19,Des Moines,Iowa,United States,NT,https://www.pdga.com/tour/event/8396,Corey Philips
+28307,8392,Beaver State Fling,2009-05-22,2009-05-24,Portland,Oregon,United States,NT,https://www.pdga.com/tour/event/8392,Jeff Mittl
+28290,8387,The Memorial presented by Discraft,2009-03-05,2009-03-07,Scottsdale,Arizona,United States,NT,https://www.pdga.com/tour/event/8387,Dan Ginnelly
+35775,8268,Shelly Sharpe Memorial,2008-10-11,2008-10-12,Scottsdale,Arizona,United States,B,https://www.pdga.com/tour/event/8268,Keith Murray
+37752,8105,2009 PDGA Amateur Disc Golf World Championships,2009-07-27,2009-08-01,Kansas City,Missouri,United States,M,https://www.pdga.com/tour/event/8105,Jack Lowe
+28327,8104,2009 PDGA Professional Disc Golf World Championships,2009-07-27,2009-08-01,Kansas City,Missouri,United States,M,https://www.pdga.com/tour/event/8104,Jack Lowe
+35364,8093,Waco Charity Open,2008-06-07,2008-06-08,Waco,Texas,United States,B,https://www.pdga.com/tour/event/8093,Joshua Dann
+35103,7447,30th Wintertime Open,2008-02-16,2008-02-17,Pasadena,California,United States,B,https://www.pdga.com/tour/event/7447,Mark Horn
+37667,7446,30th Wintertime Open,2008-02-09,2008-02-10,Pasadena,California,United States,B,https://www.pdga.com/tour/event/7446,Mark Horn
+28262,7340,Beaver State Fling,2008-07-18,2008-07-20,Portland,Oregon,United States,A,https://www.pdga.com/tour/event/7340,Teresa Bellinger
+28242,7321,6th Glass Blown Open,2008-04-26,2008-04-27,Emporia,Kansas,United States,A,https://www.pdga.com/tour/event/7321,Jeremy Rusco
+28256,7311,Discraft Great Lakes Open,2008-06-21,2008-06-22,Dexter,Michigan,United States,A,https://www.pdga.com/tour/event/7311,William Gilbert
+28237,7296,13th Texas State Championships,2008-04-05,2008-04-06,Missouri City,Texas,United States,A,https://www.pdga.com/tour/event/7296,Neal Dambra
+37670,7292,The Memorial presented by Discraft,2008-03-06,2008-03-08,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/7292,Dan Ginnelly
+28231,7291,"Gentlemen's Club Challenge IX",2008-02-29,2008-03-02,Las Vegas,Nevada,United States,A,https://www.pdga.com/tour/event/7291,Jeff Jacquart
+28264,7290,The Vibram Open at Maple Hill,2008-07-25,2008-07-27,Leicester,Massachusetts,United States,NT,https://www.pdga.com/tour/event/7290,Steven Dodge
+28232,7282,The Memorial presented by Discraft,2008-03-06,2008-03-08,Scottsdale,Arizona,United States,NT,https://www.pdga.com/tour/event/7282,Dan Ginnelly
+28276,7279,United States Disc Golf Championship,2008-10-01,2008-10-04,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/7279,Jonathan Poole
+28274,7278,"United States Women's Disc Golf Championships",2008-09-19,2008-09-21,Huntsville,Alabama,United States,M,https://www.pdga.com/tour/event/7278,Chris Jaskolka
+28266,7276,2008 PDGA Professional Disc Golf World Championships,2008-08-11,2008-08-16,Kalamazoo / Battle Creek,Michigan,United States,M,https://www.pdga.com/tour/event/7276,Larry LaBond
+37701,7275,2008 PDGA Amateur Disc Golf World Championships,2008-08-11,2008-08-16,Kalamazoo / Battle Creek,Michigan,United States,M,https://www.pdga.com/tour/event/7275,Larry LaBond
+34979,7176,Shelly Sharpe Memorial,2007-10-13,2007-10-14,Scottsdale,Arizona,United States,C,https://www.pdga.com/tour/event/7176,Dan Ginnelly
+34641,7048,Waco Charity Open,2007-06-09,2007-06-10,Waco,Texas,United States,B,https://www.pdga.com/tour/event/7048,Brian Mace
+28212,6588,5th Glass Blown Open,2007-08-25,2007-08-26,Emporia,Kansas,United States,A,https://www.pdga.com/tour/event/6588,Eric McCabe
+34428,6540,29th Wintertime Open,2007-02-17,2007-02-18,Pasadena,California,United States,B,https://www.pdga.com/tour/event/6540,Mark Horn
+37604,6539,29th Wintertime Open,2007-02-10,2007-02-11,Pasadena,California,United States,B,https://www.pdga.com/tour/event/6539,Mark Horn
+28175,6407,"Gentlemen's Club Challenge VIII",2007-02-23,2007-02-25,Las Vegas,Nevada,United States,A,https://www.pdga.com/tour/event/6407,Jeff Jacquart
+28195,6380,Greater Des Moines Challenge,2007-05-26,2007-05-27,Des Moines,Iowa,United States,A,https://www.pdga.com/tour/event/6380,Arcintina Clark
+37608,6295,The Memorial presented by Discraft,2007-03-02,2007-03-04,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/6295,Dan Ginnelly
+28222,6283,United States Disc Golf Championship,2007-10-03,2007-10-06,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/6283,Jonathan Poole
+28220,6282,"United States Women's Disc Golf Championships",2007-09-28,2007-09-30,Peoria,Illinois,United States,M,https://www.pdga.com/tour/event/6282,Bill Wallis
+28211,6279,European Open,2007-08-23,2007-08-26,Tampere,,Finland,M,https://www.pdga.com/tour/event/6279,Jussi Meresmaa
+28208,6277,2007 PDGA Professional Disc Golf World Championships,2007-08-01,2007-08-05,Highbridge,Wisconsin,United States,M,https://www.pdga.com/tour/event/6277,Chuck Kennedy
+28199,6270,Discraft Great Lakes Open,2007-06-08,2007-06-10,Ann Arbor,Michigan,United States,NT,https://www.pdga.com/tour/event/6270,Pad Timmons
+28193,6269,Beaver State Fling,2007-05-25,2007-05-27,Portland,Oregon,United States,NT,https://www.pdga.com/tour/event/6269,Teresa Bellinger
+28184,6266,Disc Golf Hall of Fame Classic,2007-04-20,2007-04-22,Columbia County,Georgia,United States,NT,https://www.pdga.com/tour/event/6266,Brian Graham
+28182,6264,12th Texas State Championships,2007-03-31,2007-04-01,Houston,Texas,United States,A,https://www.pdga.com/tour/event/6264,Larry Kruse
+28176,6263,The Memorial presented by Discraft,2007-03-02,2007-03-04,Scottsdale,Arizona,United States,NT,https://www.pdga.com/tour/event/6263,Dan Ginnelly
+34316,6216,Shelly Sharpe Memorial,2006-10-07,2006-10-08,Scottsdale,Arizona,United States,C,https://www.pdga.com/tour/event/6216,Dan Ginnelly
+34058,6057,Waco Charity Open,2006-06-10,2006-06-11,Waco,Texas,United States,B,https://www.pdga.com/tour/event/6057,Joey Harrell
+37559,5846,"FlyNHighDiscGolf.com's 11th Texas State Championships - Int / Rec",2006-04-22,2006-04-23,Houston,Texas,United States,B,https://www.pdga.com/tour/event/5846,John Gimp Edwards III
+37646,5831,2007 PDGA Amateur Disc Golf World Championships,2007-07-24,2007-07-28,Milwaukee,Wisconsin,United States,M,https://www.pdga.com/tour/event/5831,Terry T-Dogg Miller
+33876,5640,28th Wintertime Open,2006-02-18,2006-02-19,Pasadena,California,United States,B,https://www.pdga.com/tour/event/5640,Mark Horn
+37546,5639,28th Wintertime Open,2006-02-11,2006-02-12,Pasadena,California,United States,B,https://www.pdga.com/tour/event/5639,Mark Horn
+28154,5542,4th Glass Blown Open,2006-08-19,2006-08-20,Emporia,Kansas,United States,A,https://www.pdga.com/tour/event/5542,Eric McCabe
+28168,5528,United States Disc Golf Championship,2006-10-11,2006-10-14,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/5528,Jonathan Poole
+28164,5524,"United States Women's Disc Golf Championships",2006-09-29,2006-10-01,Peoria,Illinois,United States,M,https://www.pdga.com/tour/event/5524,Bill Wallis
+28153,5514,2006 PDGA Professional Disc Golf World Championships,2006-08-09,2006-08-12,Augusta,Georgia,United States,M,https://www.pdga.com/tour/event/5514,Brian Graham
+37581,5513,2006 PDGA Amateur Disc Golf World Championships,2006-07-25,2006-07-29,Tulsa,Oklahoma,United States,M,https://www.pdga.com/tour/event/5513,David A. Wise
+28138,5504,Greater Des Moines Challenge,2006-05-27,2006-05-28,Des Moines,Iowa,United States,A,https://www.pdga.com/tour/event/5504,Arcintina Clark
+28156,5485,European Open,2006-08-25,2006-08-27,Tampere,,Finland,M,https://www.pdga.com/tour/event/5485,Jussi Meresmaa
+37560,5481,"FlyNHighDiscGolf.com's 11th Texas State Championships - Adv",2006-04-22,2006-04-23,Houston,Texas,United States,A,https://www.pdga.com/tour/event/5481,John Gimp Edwards III
+33779,5471,Shelley Sharpe Memorial,2005-10-08,2005-10-09,Scottsdale,Arizona,United States,C,https://www.pdga.com/tour/event/5471,Dan Ginnelly
+28122,5467,"Gentlemen's Club Challenge",2006-02-24,2006-02-26,Las Vegas,Nevada,United States,A,https://www.pdga.com/tour/event/5467,Jeff Jacquart
+37547,5465,The Memorial,2006-03-03,2006-03-05,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/5465,Dan Ginnelly
+28144,5460,Discraft Great Lakes Open,2006-06-23,2006-06-25,Ann Arbor,Michigan,United States,NT,https://www.pdga.com/tour/event/5460,Rob Hower
+28136,5458,Beaver State Fling,2006-05-19,2006-05-21,Portland,Oregon,United States,NT,https://www.pdga.com/tour/event/5458,Teresa Bellinger
+28130,5455,"FlyNHighDiscGolf.com's 11th Texas State Championships",2006-04-22,2006-04-23,Houston,Texas,United States,NT,https://www.pdga.com/tour/event/5455,John Gimp Edwards III
+28123,5452,The Memorial,2006-03-03,2006-03-05,Scottsdale,Arizona,United States,NT,https://www.pdga.com/tour/event/5452,Dan Ginnelly
+37508,5159,Waco Charity Open,2005-06-11,2005-06-12,Waco,Texas,United States,B,https://www.pdga.com/tour/event/5159,Joey Harrell
+33391,4882,27th Wintertime Open,2005-02-19,2005-02-20,Pasadena,California,United States,B,https://www.pdga.com/tour/event/4882,Mark Horn
+37487,4881,27th Wintertime Open,2005-02-12,2005-02-13,Pasadena,California,United States,B,https://www.pdga.com/tour/event/4881,Mark Horn
+33616,4874,3rd Glass Blown Open,2005-07-09,2005-07-10,Emporia,Kansas,United States,B,https://www.pdga.com/tour/event/4874,Eric McCabe
+28115,4720,Texas State Championships,2005-10-22,2005-10-23,Houston,Texas,United States,A,https://www.pdga.com/tour/event/4720,John Gimp Edwards III
+28114,4699,United States Disc Golf Championship,2005-10-12,2005-10-15,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/4699,Jonathan Poole
+28094,4668,European Disc Golf Championships,2005-07-07,2005-07-10,Tampere/Nokia,,Finland,A,https://www.pdga.com/tour/event/4668,Jussi Meresmaa
+28084,4663,huk lab Beaver State Fling,2005-05-28,2005-05-29,Portland,Oregon,United States,NT,https://www.pdga.com/tour/event/4663,Teresa Bellinger
+28080,4657,Waco Charity Open,2005-05-07,2005-05-08,Waco,Texas,United States,NT,https://www.pdga.com/tour/event/4657,Joey Harrell
+28108,4650,"United States Women's Disc Golf Championships",2005-09-23,2005-09-25,Peoria,Illinois,United States,M,https://www.pdga.com/tour/event/4650,Bill Wallis
+37523,4646,2005 PDGA Amateur Disc Golf World Championships,2005-08-08,2005-08-13,Flagstaff,Arizona,United States,M,https://www.pdga.com/tour/event/4646,Dan Ginnelly
+28099,4645,2005 PDGA Professional Disc Golf World Championships,2005-07-25,2005-07-30,Allentown,Pennsylvania,United States,M,https://www.pdga.com/tour/event/4645,John Duesler Jr.
+28090,4643,Discraft Great Lakes Open,2005-06-24,2005-06-26,Ann Arbor,Michigan,United States,NT,https://www.pdga.com/tour/event/4643,Rob Hower
+28089,4641,Greater Des Moines Challenge,2005-06-18,2005-06-19,Des Moines,Iowa,United States,NT,https://www.pdga.com/tour/event/4641,Ryan Hesseltine
+28078,4636,Disc Golf Hall of Fame Classic,2005-04-22,2005-04-24,Augusta,Georgia,United States,NT,https://www.pdga.com/tour/event/4636,Brian Graham
+37488,4626,The Memorial,2005-03-04,2005-03-06,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/4626,Dan Ginnelly
+28072,4625,The Memorial,2005-03-04,2005-03-06,Scottsdale,Arizona,United States,NT,https://www.pdga.com/tour/event/4625,Dan Ginnelly
+28071,4623,"Gentlemen's Club Challenge",2005-02-26,2005-02-27,Las Vegas,Nevada,United States,A,https://www.pdga.com/tour/event/4623,Jeff Jacquart
+33318,4613,Shelley Sharpe Memorial,2004-10-09,2004-10-10,Scottsdale,Arizona,United States,C,https://www.pdga.com/tour/event/4613,Dan Ginnelly
+27999,4509,2003 European Championships,2003-07-31,2003-08-03,Beaminster,,United Kingdom,A,https://www.pdga.com/tour/event/4509,Derek Robins
+32120,4496,European Championships (Oslo Open),2001-06-01,2001-06-04,Oslo,,Norway,B,https://www.pdga.com/tour/event/4496,Svein Atle Hagaseth
+33156,4171,2nd Glass Blown Open,2004-06-26,2004-06-27,Emporia,Kansas,United States,B,https://www.pdga.com/tour/event/4171,Eric McCabe
+33095,4118,Des Moines Challenge,2004-05-29,2004-05-30,Des Moines,Iowa,United States,B,https://www.pdga.com/tour/event/4118,Ryan Hesseltine
+32978,4060,26th Wintertime Open,2004-02-14,2004-02-15,Pasadena,California,United States,B,https://www.pdga.com/tour/event/4060,Mark Horn
+37436,4056,26th Wintertime Open,2004-02-07,2004-02-08,Pasadena,California,United States,B,https://www.pdga.com/tour/event/4056,Mark Horn
+28064,4039,Texas State Championships,2004-10-23,2004-10-24,Houston,Texas,United States,A,https://www.pdga.com/tour/event/4039,Larry Kruse
+28063,4038,United States Disc Golf Championship,2004-10-14,2004-10-17,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/4038,Jonathan Poole
+28057,4032,"United States Women's Disc Golf Championships",2004-09-24,2004-09-26,Peoria,Illinois,United States,M,https://www.pdga.com/tour/event/4032,Bill Wallis
+28053,4026,Beaver State Fling,2004-08-28,2004-08-29,Portland,Oregon,United States,A,https://www.pdga.com/tour/event/4026,Teresa Bellinger
+28051,4024,2004 PDGA Professional Disc Golf World Championships,2004-08-09,2004-08-14,Des Moines,Iowa,United States,M,https://www.pdga.com/tour/event/4024,0
+37468,4023,2004 PDGA Amateur Disc Golf World Championships,2004-08-09,2004-08-14,Des Moines,Iowa,United States,M,https://www.pdga.com/tour/event/4023,0
+37469,4022,2004 PDGA Junior Disc Golf World Championships,2004-08-09,2004-08-14,Des Moines,Iowa,United States,M,https://www.pdga.com/tour/event/4022,0
+28041,4011,Discraft Great Lakes Open,2004-06-19,2004-06-20,Ann Arbor,Michigan,United States,NT,https://www.pdga.com/tour/event/4011,Rob Hower
+37453,4010,Waco Charity Open,2004-06-12,2004-06-13,Waco,Texas,United States,A,https://www.pdga.com/tour/event/4010,Joey Harrell
+28027,3990,Waco Charity Open,2004-03-06,2004-03-07,Waco,Texas,United States,NT,https://www.pdga.com/tour/event/3990,Joey Harrell
+37437,3989,The Memorial presented by Discraft,2004-02-27,2004-02-29,Phoenix,Arizona,United States,A,https://www.pdga.com/tour/event/3989,Dan Ginnelly
+28026,3988,The Memorial Presented by Discraft,2004-02-27,2004-02-29,Phoenix,Arizona,United States,NT,https://www.pdga.com/tour/event/3988,Dan Ginnelly
+28025,3987,"Gentlemen's Club Challenge",2004-02-21,2004-02-22,Las Vegas,Nevada,United States,A,https://www.pdga.com/tour/event/3987,Jeff Jacquart
+28015,3801,United States Disc Golf Championship,2003-10-16,2003-10-19,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/3801,Jonathan Poole
+32917,3795,Shelly Sharpe Memorial,2003-10-11,2003-10-12,Scottsdale,Arizona,United States,C,https://www.pdga.com/tour/event/3795,Dan Ginnelly
+37426,3751,8th Texas State Championships,2003-09-20,2003-09-21,Houston,Texas,United States,B,https://www.pdga.com/tour/event/3751,Larry Kruse
+28009,3749,8th Texas State Championships - Pro/Adv,2003-09-20,2003-09-21,Houston,Texas,United States,A,https://www.pdga.com/tour/event/3749,Larry Kruse
+28010,3742,US Womens Disc Golf Championships,2003-09-26,2003-09-28,Peoria,Illinois,United States,M,https://www.pdga.com/tour/event/3742,Bill Wallis
+37411,3678,2003 PDGA Amateur Disc Golf World Championships,2003-07-22,2003-07-26,Kansas City,Missouri,United States,M,https://www.pdga.com/tour/event/3678,Jack Lowe
+28003,3659,2003 PDGA Professional Disc Golf World Championships,2003-08-11,2003-08-16,Flagstaff,Arizona,United States,M,https://www.pdga.com/tour/event/3659,Dan Ginnelly
+32794,3626,Beaver State Fling,2003-07-12,2003-07-13,Troutdale,Oregon,United States,B,https://www.pdga.com/tour/event/3626,Teresa Bellinger
+32772,3615,Emporia Glass Blown Open,2003-06-28,2003-06-29,Emporia,Kansas,United States,B,https://www.pdga.com/tour/event/3615,Eric McCabe
+37408,3581,2003 PDGA Junior Disc Golf World Championships,2003-07-07,2003-07-11,London,Ontario,Canada,M,https://www.pdga.com/tour/event/3581,John Mann
+27990,3556,Discraft Great Lakes Open,2003-06-21,2003-06-22,Ann Arbor,Michigan,United States,NT,https://www.pdga.com/tour/event/3556,Rob Hower
+32724,3491,Des Moines Challenge,2003-05-24,2003-05-25,Des Moines,Iowa,United States,B,https://www.pdga.com/tour/event/3491,Ryan Hesseltine
+27986,3484,DG Hall of Fame Classic,2003-05-30,2003-06-01,Augusta,Georgia,United States,NT,https://www.pdga.com/tour/event/3484,Brian Graham
+27977,3400,Waco Charity Open,2003-03-29,2003-03-30,Waco,Texas,United States,A,https://www.pdga.com/tour/event/3400,Joey Harrell
+32641,3382,"Gentlemen's Club Challenge IV",2003-03-01,2003-03-02,Las Vegas,Nevada,United States,B,https://www.pdga.com/tour/event/3382,Jeff Jacquart
+27971,3377,The Memorial,2003-03-07,2003-03-09,Phoenix,Arizona,United States,NT,https://www.pdga.com/tour/event/3377,Dan Ginnelly
+27969,3375,25th Wintertime Open,2003-02-15,2003-02-16,Pasadena,California,United States,A,https://www.pdga.com/tour/event/3375,Mark Horn
+37382,3365,25th Wintertime Open,2003-02-08,2003-02-09,Pasadena,California,United States,B,https://www.pdga.com/tour/event/3365,Mark Horn
+32573,3313,Shelley Sharpe Memorial,2002-10-12,2002-10-13,Scottsdale,Arizona,United States,C,https://www.pdga.com/tour/event/3313,Jim Garnett
+27961,3170,United States Disc Golf Championship,2002-10-17,2002-10-20,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/3170,Jonathan Poole
+27957,3127,US Womens Disc Golf Championship,2002-09-27,2002-09-29,Peoria,Illinois,United States,M,https://www.pdga.com/tour/event/3127,Bill Wallis
+27955,3126,7th Texas State Championships,2002-09-21,2002-09-22,Houston,Texas,United States,A,https://www.pdga.com/tour/event/3126,Larry Kruse
+37369,3105,7th Texas State Championships,2002-09-21,2002-09-22,Houston,Texas,United States,B,https://www.pdga.com/tour/event/3105,Larry Kruse
+27951,3063,2002 PDGA Professional Disc Golf World Championships,2002-08-06,2002-08-10,Houston,Texas,United States,M,https://www.pdga.com/tour/event/3063,Dave Nez Nesbitt
+37361,3062,2002 PDGA Amateur Disc Golf World Championships,2002-07-23,2002-07-26,Miami,Florida,United States,M,https://www.pdga.com/tour/event/3062,Keith Johnson
+32439,3029,Beaver State Fling,2002-06-22,2002-06-23,Troutdale,Oregon,United States,C,https://www.pdga.com/tour/event/3029,Teresa & Cris Bellinger
+32402,3012,Des Moines Challenge,2002-05-25,2002-05-26,Des Moines,Iowa,United States,B,https://www.pdga.com/tour/event/3012,Ryan Hesseltine
+27948,3004,Discraft Great Lakes Open,2002-07-13,2002-07-14,Ann Arbor,Michigan,United States,A,https://www.pdga.com/tour/event/3004,Rob Hower
+27936,2983,Waco Charity Open,2002-05-18,2002-05-19,Waco,Texas,United States,A,https://www.pdga.com/tour/event/2983,Joey Harrell
+32324,2870,Texas State Doubles,2002-03-09,2002-03-10,Round Top,Texas,United States,B,https://www.pdga.com/tour/event/2870,Randon Dillingham
+37337,2831,24th Wintertime Open,2002-02-09,2002-02-10,Pasadena,California,United States,B,https://www.pdga.com/tour/event/2831,Mark Horn
+27925,2830,24th Wintertime Open,2002-02-16,2002-02-17,Pasadena,California,United States,A,https://www.pdga.com/tour/event/2830,Mark Horn
+27926,2829,Discraft presents the Memorial,2002-03-01,2002-03-03,Phoenix,Arizona,United States,A,https://www.pdga.com/tour/event/2829,Dan Ginnelly
+32318,2828,"3rd Gentlemen's Club Challenge",2002-02-23,2002-02-24,Las Vegas,Nevada,United States,B,https://www.pdga.com/tour/event/2828,Jeff Jacquart
+32275,2736,Shelley Sharpe Memorial,2001-10-13,2001-10-14,Scottsdale,Arizona,United States,C,https://www.pdga.com/tour/event/2736,0
+27917,2735,US Womens Disc Golf Championship,2001-10-12,2001-10-14,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/2735,0
+27916,2734,United States Disc Golf Championship,2001-10-11,2001-10-14,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/2734,Jon Poole
+37325,2706,6th Texas State Championships - Intermediate & Below,2001-09-22,2001-09-23,Houston,Texas,United States,B,https://www.pdga.com/tour/event/2706,0
+27909,2642,2001 PDGA Professional Disc Golf World Championships,2001-08-07,2001-08-11,St Paul,Minnesota,United States,M,https://www.pdga.com/tour/event/2642,0
+37317,2634,2001 PDGA Amateur Disc Golf World Championships,2001-07-24,2001-07-28,Nashville,Tennessee,United States,M,https://www.pdga.com/tour/event/2634,0
+27905,2622,Discraft Great Lakes Open,2001-07-14,2001-07-15,Ann Arbor,Michigan,United States,A,https://www.pdga.com/tour/event/2622,0
+32118,2535,Des Moines Challenge,2001-05-26,2001-05-27,Des Moines,Iowa,United States,B,https://www.pdga.com/tour/event/2535,0
+27895,2528,Waco Charity Open,2001-05-19,2001-05-20,Waco,Texas,United States,A,https://www.pdga.com/tour/event/2528,0
+37308,2516,Waco Charity Open,2001-05-12,2001-05-13,Waco,Texas,United States,A,https://www.pdga.com/tour/event/2516,0
+27888,2429,Bob West Memorial,2001-03-02,2001-03-04,Phoenix,Arizona,United States,A,https://www.pdga.com/tour/event/2429,0
+32038,2421,"Gentlemen's Club Challenge",2001-02-17,2001-02-18,Las Vegas,Nevada,United States,B,https://www.pdga.com/tour/event/2421,0
+37296,2420,23rd Wintertime Open,2001-02-17,2001-02-18,Pasadena,California,United States,B,https://www.pdga.com/tour/event/2420,0
+27887,2417,23rd Wintertime Open,2001-02-10,2001-02-11,Pasadena,California,United States,A,https://www.pdga.com/tour/event/2417,0
+42134,2408,1989 PDGA Disc Golf World Championships,1989-08-21,1989-08-26,Waterloo/Cedar Falls,Iowa,United States,M,https://www.pdga.com/tour/event/2408,David Hook
+42123,2407,1988 PDGA Disc Golf World Championships,1988-09-07,1988-09-10,Cincinnati,Ohio,United States,M,https://www.pdga.com/tour/event/2407,Midge Erkenbrecher
+42121,2406,1987 PDGA Disc Golf World Championships,1987-08-25,1987-08-30,Toronto,Ontario,Canada,M,https://www.pdga.com/tour/event/2406,Ken Westerfield
+42120,2404,1986 PDGA Disc Golf World Championships,1986-07-23,1986-07-26,Charlotte,North Carolina,United States,M,https://www.pdga.com/tour/event/2404,Steve Lambert
+42118,2402,1985 PDGA Disc Golf World Championships,1985-07-26,1985-07-28,Tulsa,Oklahoma,United States,M,https://www.pdga.com/tour/event/2402,Rick Neil
+42116,2401,1984 PDGA Disc Golf World Championships,1984-07-26,1984-07-29,Rochester,New York,United States,M,https://www.pdga.com/tour/event/2401,Jim Palmeri
+42114,2400,1983 PDGA Disc Golf World Championships,1983-07-29,1983-07-31,Huntsville,Alabama,United States,M,https://www.pdga.com/tour/event/2400,Tom Monroe
+42113,2399,1982 PDGA Disc Golf World Championships,1982-07-30,1982-08-01,Los Angeles,California,United States,M,https://www.pdga.com/tour/event/2399,Steady Ed Headrick
+31991,2347,Shelly Sharpe Memorial,2000-10-14,2000-10-15,Scottsdale,Arizona,United States,C,https://www.pdga.com/tour/event/2347,Daniel Ginnelly
+27883,2346,"Women's National Disc Golf Championship",2000-10-13,2000-10-15,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/2346,0
+27878,2331,5th Texas State Disc Golf Championships - Pros,2000-09-23,2000-09-24,Texas,,United States,A,https://www.pdga.com/tour/event/2331,0
+37284,2322,5th Texas State Disc Golf Championships - Am,2000-09-16,2000-09-17,Houston,Texas,United States,B,https://www.pdga.com/tour/event/2322,Don Wilchek
+27882,2271,United States Disc Golf Championship,2000-10-12,2000-10-15,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/2271,0
+27873,2211,2000 PDGA Professional Disc Golf World Championships,2000-08-01,2000-08-05,Ann Arbor,Michigan,United States,M,https://www.pdga.com/tour/event/2211,Steve Peck
+31812,2143,Des Moines Disc Golf Challenge,2000-05-27,2000-05-28,Des Moines,Iowa,United States,B,https://www.pdga.com/tour/event/2143,Jason Neifert
+27861,2131,5th Annual Waco Charity Open,2000-05-20,2000-05-21,Waco,Texas,United States,A,https://www.pdga.com/tour/event/2131,Joey Harrell
+27853,2048,Discraft Bob West Memorial,2000-03-04,2000-03-05,Scottsdale,Arizona,United States,A,https://www.pdga.com/tour/event/2048,0
+31720,2038,22nd Annual Wintertime Open,2000-02-19,2000-02-20,Pasadena,California,United States,B,https://www.pdga.com/tour/event/2038,0
+31714,2031,"Gentlemen's Club Challenge",2000-01-22,2000-01-23,Las Vegas,Nevada,United States,C,https://www.pdga.com/tour/event/2031,Jeffrey Jacquart
+31676,1986,Shelley Sharpe Memorial,1999-10-16,1999-10-17,Scottsdale,Arizona,United States,C,https://www.pdga.com/tour/event/1986,Daniel Ginnelly
+27849,1936,Womens National Championships,1999-10-08,1999-10-10,Charlotte,North Carolina,United States,M,https://www.pdga.com/tour/event/1936,Harold Duvall
+27848,1935,United States Disc Golf Championships,1999-10-07,1999-10-10,Rock Hill,South Carolina,United States,M,https://www.pdga.com/tour/event/1935,Harold Duvall
+27845,1927,Texas State DG Championships - Pro,1999-09-25,1999-09-26,Houston,Texas,United States,A,https://www.pdga.com/tour/event/1927,Daniel Lamont
+37253,1914,Texas State DG Championships - Am,1999-09-18,1999-09-19,Houston,Texas,United States,B,https://www.pdga.com/tour/event/1914,Don Wilchek
+27842,1871,1999 PDGA Professional Disc Golf World Championships,1999-08-10,1999-08-14,Rochester,New York,United States,M,https://www.pdga.com/tour/event/1871,Royce Racinowski
+37245,1860,1999 PDGA Amateur Disc Golf World Championships,1999-07-27,1999-07-31,Kansas City,Missouri,United States,M,https://www.pdga.com/tour/event/1860,Rick Rothstein
+27839,1844,Discraft Great Lakes Open,1999-07-10,1999-07-11,Ann Arbor,Michigan,United States,A,https://www.pdga.com/tour/event/1844,Steve Peck
+37238,1802,Waco Charity Open,1999-06-05,1999-06-06,Waco,Texas,United States,B,https://www.pdga.com/tour/event/1802,Brian McGee
+31521,1791,Des Moines Disc Golf Challenge,1999-05-29,1999-05-30,Des Moines,Iowa,United States,B,https://www.pdga.com/tour/event/1791,Jason Neifert
+27822,1703,Bob West Memorial,1999-03-06,1999-03-07,Fountain Hills,Arizona,United States,A,https://www.pdga.com/tour/event/1703,Daniel Ginnelly
+31447,1693,22nd Wintertime Open,1999-02-13,1999-02-14,Pasadena,California,United States,B,https://www.pdga.com/tour/event/1693,Mark Horn
+31426,1644,Shelly Sharpe Memorial,1998-10-23,1998-10-24,Scottsdale,Arizona,United States,C,https://www.pdga.com/tour/event/1644,Daniel Ginnelly
+37221,1620,3rd Annual Texas State Disc Golf Championships - Am,1998-09-26,1998-09-27,Houston,Texas,United States,B,https://www.pdga.com/tour/event/1620,Daniel Lamont
+27818,1619,3rd Annual Texas State Disc Golf Championships - Pro,1998-09-26,1998-09-27,Houston,Texas,United States,A,https://www.pdga.com/tour/event/1619,Daniel Lamont
+27816,1571,1998 PDGA Professional Disc Golf World Championships,1998-08-03,1998-08-08,Cincinnati,Ohio,United States,M,https://www.pdga.com/tour/event/1571,Kerry Keith
+27815,1568,Discraft Great Lakes Open,1998-08-01,1998-08-02,Ann Arbor,Michigan,United States,A,https://www.pdga.com/tour/event/1568,Tod More
+37215,1562,1998 PDGA Amateur Disc Golf World Championships,1998-07-21,1998-07-25,Appleton,Wisconsin,United States,M,https://www.pdga.com/tour/event/1562,Don Hoffman
+27808,1509,360 Communication Waco Annual Charity Open,1998-06-06,1998-06-07,Waco,Texas,United States,A,https://www.pdga.com/tour/event/1509,Brian McGee
+37209,1499,360 Communication Waco Annual Charity Open,1998-05-30,1998-05-31,Waco,Texas,United States,B,https://www.pdga.com/tour/event/1499,Brian McGee
+31295,1493,Bob West Memorial,1998-05-23,1998-05-24,Scottsdale & Fountain Hills,Arizona,United States,B,https://www.pdga.com/tour/event/1493,Daniel Ginnelly
+31300,1486,Des Moines Disc Golf Challenge,1998-05-23,1998-05-24,Des Moines & Johnston,Iowa,United States,B,https://www.pdga.com/tour/event/1486,Jason Neifert
+31263,1449,Music City Open,1998-04-18,1998-04-19,Nashville,Tennessee,United States,B,https://www.pdga.com/tour/event/1449,David L. Clark
+31243,1413,20th Annual Wintertime Open,1998-02-21,1998-02-22,Pasadena,California,United States,B,https://www.pdga.com/tour/event/1413,Mark Horn
+31208,1365,Shelly Sharpe Memorial,1997-10-11,1997-10-12,Scottsdale,Arizona,United States,C,https://www.pdga.com/tour/event/1365,0
+27797,1352,Texas State DGC,1997-09-27,1997-09-28,Houston,Texas,United States,A,https://www.pdga.com/tour/event/1352,0
+27794,1304,1997 PDGA Professional Disc Golf World Championships,1997-08-12,1997-08-17,Charlotte,North Carolina,United States,M,https://www.pdga.com/tour/event/1304,John David
+37197,1295,1997 PDGA Amateur Disc Golf World Championships,1997-07-29,1997-08-02,Grand Rapids,Michigan,United States,M,https://www.pdga.com/tour/event/1295,Al Haaksma
+27793,1291,Discraft Great Lakes Open,1997-07-26,1997-07-27,Dexter,Michigan,United States,A,https://www.pdga.com/tour/event/1291,0
+31093,1224,360 Communications Waco Annual Charity Open,1997-05-31,1997-06-01,Waco,Texas,United States,B,https://www.pdga.com/tour/event/1224,0
+31084,1221,Bob West Memorial,1997-05-24,1997-05-25,Scottsdale,Arizona,United States,C,https://www.pdga.com/tour/event/1221,0
+31089,1215,Des Moines Disc Golf Challenge,1997-05-24,1997-05-25,Des Moines,Iowa,United States,B,https://www.pdga.com/tour/event/1215,0
+27778,1144,Wintertime Open,1997-02-15,1997-02-16,Pasadena,California,United States,A,https://www.pdga.com/tour/event/1144,0
+31024,1120,Texas State Disc Golf Championships,1996-11-02,1996-11-03,Houston,Texas,United States,B,https://www.pdga.com/tour/event/1120,0
+31007,1109,Shelly Sharpe Memorial,1996-10-12,1996-10-13,Scottsdale,Arizona,United States,C,https://www.pdga.com/tour/event/1109,0
+27773,1040,1996 PDGA Professional Disc Golf World Championships,1996-08-06,1996-08-10,South Bend,Indiana,United States,M,https://www.pdga.com/tour/event/1040,Norm Hezlep
+27772,1038,Discraft Great Lakes Open,1996-08-03,1996-08-04,Ann Arbor,Michigan,United States,A,https://www.pdga.com/tour/event/1038,0
+37172,1014,1996 PDGA Amateur Disc Golf World Championships,1996-07-11,1996-07-14,Augusta,Georgia,United States,M,https://www.pdga.com/tour/event/1014,Brian Graham
+30915,982,1996 Waco Annual Charity Open,1996-06-01,1996-06-02,Waco,Texas,United States,B,https://www.pdga.com/tour/event/982,0
+30914,972,Des Moines Disc Golf Challenge,1996-05-25,1996-05-26,Des Moines,Iowa,United States,B,https://www.pdga.com/tour/event/972,0
+30896,959,1996 Bob West Memorial,1996-05-04,1996-05-05,Scottsdale,Arizona,United States,C,https://www.pdga.com/tour/event/959,0
+27761,908,18th Annual Mattel Wintertime Open,1996-02-17,1996-02-18,Pasadena,California,United States,A,https://www.pdga.com/tour/event/908,0
+30833,865,Shelly Sharpe Memorial,1995-10-07,1995-10-08,Scottdale,Arizona,United States,C,https://www.pdga.com/tour/event/865,0
+27752,814,1995 PDGA Professional Disc Golf World Championships,1995-08-13,1995-08-19,Port Arthur,Texas,United States,M,https://www.pdga.com/tour/event/814,John Houck
+37160,802,1995 PDGA Amateur Disc Golf World Championships,1995-07-25,1995-07-29,Cincinnati,Ohio,United States,M,https://www.pdga.com/tour/event/802,Tom Forde
+27751,799,Great Lakes Open,1995-07-22,1995-07-23,Ann Arbor,Michigan,United States,A,https://www.pdga.com/tour/event/799,0
+30734,748,Des Moines Disc Golf Challenge,1995-05-27,1995-05-28,Des Moines,Iowa,United States,B,https://www.pdga.com/tour/event/748,0
+30736,745,Bob West Memorial,1995-05-27,1995-05-28,Scottsdale,Arizona,United States,C,https://www.pdga.com/tour/event/745,0
+27739,697,17th Annual Bud Light Wintertime Open,1995-02-18,1995-02-19,Pasadena,California,United States,A,https://www.pdga.com/tour/event/697,0
+30658,666,Shelly Sharpe,1994-10-08,1994-10-08,Scottsdale,Arizona,United States,C,https://www.pdga.com/tour/event/666,0
+37150,625,1994 PDGA Amateur Disc Golf World Championships,1994-08-23,1994-08-27,Sacramento,California,United States,M,https://www.pdga.com/tour/event/625,Jim Oates
+27734,615,1994 PDGA Professional Disc Golf World Championships,1994-08-02,1994-08-07,Port Arthur,Texas,United States,M,https://www.pdga.com/tour/event/615,John Houck
+30586,553,13th Annual Great Lakes Open,1994-06-18,1994-06-19,Leonard,Michigan,United States,B,https://www.pdga.com/tour/event/553,0
+27722,504,16th Annual Bud Light Wintertime Open,1994-02-19,1994-02-20,Pasadena,California,United States,A,https://www.pdga.com/tour/event/504,0
+37137,412,1993 PDGA Amateur Disc Golf World Championships,1993-08-04,1993-08-07,Ft. Collins,Colorado,United States,M,https://www.pdga.com/tour/event/412,Bill Wright
+30426,375,12th Great Lakes Open,1993-06-26,1993-06-27,Troy,Michigan,United States,C,https://www.pdga.com/tour/event/375,Bob Huston
+27702,362,1993 PDGA Professional Disc Golf World Championships,1993-06-06,1993-06-12,Huntsville,Alabama,United States,M,https://www.pdga.com/tour/event/362,Lavone Wolfe
+27687,292,Bud Light Wintertime Open,1993-02-13,1993-02-14,Pasadena,California,United States,A,https://www.pdga.com/tour/event/292,Mark Horn
+27679,230,1992 PDGA Professional Disc Golf World Championships,1992-08-17,1992-08-22,Detroit,Michigan,United States,M,https://www.pdga.com/tour/event/230,Duane Fat Boy Utech
+37123,215,1992 PDGA Amateur Disc Golf World Championships,1992-07-22,1992-07-26,Indianapolis,Indiana,United States,A,https://www.pdga.com/tour/event/215,Jerry Suiter
+27668,185,11th Annual Great Lakes Open,1992-06-20,1992-06-21,Troy,Michigan,United States,A,https://www.pdga.com/tour/event/185,Bob Huston
+27647,97,Bud Light Wintertime Open,1992-02-15,1992-02-16,Pasadena,California,United States,A,https://www.pdga.com/tour/event/97,Mark Horn
+27644,90,1991 PDGA Professional Disc Golf World Championships,1991-08-21,1991-08-24,Dayton,Ohio,United States,M,https://www.pdga.com/tour/event/90,Slate Paul
+37113,87,1991 PDGA Amateur Disc Golf World Championships,1991-07-26,1991-07-28,Detroit,Michigan,United States,M,https://www.pdga.com/tour/event/87,Bob Huston
+27638,85,1990 PDGA Professional Disc Golf World Championships,1990-10-09,1990-10-13,Scottsdale/Mesa/Fountain Hills,Arizona,United States,M,https://www.pdga.com/tour/event/85,Clay Freeman
+37110,84,1990 PDGA Amateur Disc Golf World Championships,1990-08-10,1990-08-12,Wichita,Kansas,United States,M,https://www.pdga.com/tour/event/84,Harvey Barger Jr
+30191,8,Shelly Sharpe Memorial,1991-10-05,1991-10-06,Scottsdale,Arizona,United States,C,https://www.pdga.com/tour/event/8,0
